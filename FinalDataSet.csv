@@ -1,0 +1,570 @@
+Bedroom,Bathroom,Floor,Parking,Property Face,Build Year,Area Covered,Posted Date,Price,District,Location,Road Distance,Type of Road
+6,5,2.5,1,West,2068.0,1326.21,3,40000000,Kathmandu,Chhauni,13,Blacktopped
+5,5,2.5,1,South East,,1026.75,1,27500000,Lalitpur,Imadol,12,Concrete
+3,4,2.5,1,North East,,1369.0,9,34000000,Lalitpur,Imadol,18,Soil Stabilized
+5,6,3.0,1,South,2080.0,1796.81,1,55000000,Lalitpur,Imadol,13,Paved
+6,7,3.0,3,East,2077.0,3080.25,36,150000000,Lalitpur,Dhobighat,16,Gravelled
+6,6,3.5,1,North,2080.0,1112.31,2,29000000,Lalitpur,Imadol,13,Concrete
+4,3,3.0,1,North West,,1711.25,8,58500000,Lalitpur,Bhaisepati,20,Blacktopped
+4,4,2.5,1,South,2080.0,1026.75,1,25200000,Lalitpur,Tikathali,13,Concrete
+4,4,3.0,1,North,2078.0,1197.87,24,31500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.0,3,West,,1133.7,1,24500000,Lalitpur,Imadol,13,Gravelled
+5,5,3.0,3,East,2069.0,3080.25,60,60000000,Lalitpur,Khumaltar,13,
+4,4,2.0,2,South,,941.18,1,23500000,Lalitpur,Imadol,13,Paved
+5,4,3.0,2,North,,1369.0,1,35000000,Lalitpur,Tikathali,13,Paved
+5,3,2.5,1,South,2080.0,1818.2,2,42700000,Lalitpur,Sunakothi,20,Blacktopped
+3,2,2.5,2,South,2070.0,1026.75,36,19000000,Lalitpur,Thaiba,20,Paved
+6,3,3.0,1,East,2068.0,1882.37,36,31000000,Lalitpur,Imadol,12,Blacktopped
+6,5,2.0,2,East,,1411.78,1,36500000,Kathmandu,Budhanilkantha,15,Gravelled
+4,3,2.5,1,North East,,1604.29,5,51000000,Kathmandu,Budhanilkantha,20,Blacktopped
+3,3,3.0,1,West,,1133.7,11,20000000,Bhaktapur,Madhyapur Thimi,20,
+6,7,2.0,5,West,,1540.12,1,41500000,Lalitpur,Khumaltar,13,Blacktopped
+4,3,3.0,1,South East,2079.0,1026.75,24,20000000,Bhaktapur,Bhaktapur,20,Blacktopped
+4,3,3.0,1,South,2080.0,1112.31,1,26500000,Lalitpur,Mahalaxmisthan,13,Paved
+5,5,2.0,3,East,,1155.09,1,35555555,Lalitpur,Imadol,13,Gravelled
+6,6,3.0,1,North,2080.0,1283.43,2,29000000,Lalitpur,Imadol,13,Concrete
+5,4,3.0,1,East,,3443.89,10,28000000,Bhaktapur,Lokanthali,12,Concrete
+13,6,4.5,1,North,2067.0,1369.0,36,35000000,Lalitpur,Imadol,15,Blacktopped
+9,5,3.0,3,East,2060.0,3422.5,36,62500000,Lalitpur,Manbhawan,13,Blacktopped
+5,3,2.5,1,South,2080.0,1647.0700000000002,2,40300000,Lalitpur,Sunakothi,20,Blacktopped
+5,6,3.0,4,South East,,1369.0,1,39500000,Lalitpur,Imadol,13,Paved
+8,5,4.0,2,South,2078.0,1369.0,24,33500000,Lalitpur,Imadol,13,Gravelled
+2,2,2.0,1,West,,1796.81,12,15000000,Bhaktapur,Dadikot,4,
+5,4,2.0,4,South,,1026.75,1,21500000,Bhaktapur,Bhaktapur,13,Gravelled
+5,4,2.5,1,East,2074.0,1197.87,3,33000000,Kathmandu,Swayambhu,13,Concrete
+5,5,3.0,1,South,,1112.31,1,26500000,Lalitpur,Imadol,13,
+5,4,2.0,4,North,,1369.0,1,35000000,Bhaktapur,Bhaktapur,13,Gravelled
+4,3,2.5,1,South,2073.0,1026.75,36,20000000,Lalitpur,Sovahity,10,Concrete
+9,5,2.0,11,East,2072.0,55102.25,36,230000001,Lalitpur,Lamatar,14,Paved
+5,4,2.5,1,West,2080.0,1026.75,2,28500000,Lalitpur,Imadol,13,Concrete
+5,4,2.5,1,South,,1390.39,3,37000000,Kathmandu,Sitapaila,10,Gravelled
+5,3,2.5,1,South,2080.0,1475.95,2,36700000,Lalitpur,Sunakothi,20,Blacktopped
+3,3,2.0,3,East,,1026.75,1,39500000,Lalitpur,Kupondole,18,Blacktopped
+2,1,1.0,1,South,,1197.87,2,16000000,Lalitpur,Imadol,13,
+7,3,3.0,1,East,2076.0,1197.87,48,22500000,Bhaktapur,Sipadol,10,Gravelled
+4,4,3.0,1,North,2078.0,1026.75,24,23500000,Lalitpur,Imadol,13,Gravelled
+5,4,3.0,1,South,2080.0,1112.31,2,29900000,Lalitpur,Imadol,13,Concrete
+6,5,2.0,3,South East,,1454.56,1,38500000,Kathmandu,Budhanilkantha,18,Gravelled
+7,4,2.5,1,South,,1112.31,3,27000000,Lalitpur,Imadol,20,Gravelled
+7,3,3.0,1,North West,2069.0,1326.21,8,21500000,Bhaktapur,Suryabinayak,11,Blacktopped
+6,6,3.5,1,North East,2080.0,1197.87,1,29500000,Lalitpur,Imadol,13,Concrete
+5,9,2.0,4,East,,2395.75,36,70000000,Bhaktapur,Balkot,14,
+5,3,3.0,4,North East,,5818.25,1,140000000,Lalitpur,Bhaisepati,20,Blacktopped
+2,3,3.0,1,North East,2073.0,1347.6,24,27000000,Lalitpur,Imadol,13,Gravelled
+4,4,2.0,3,North,,855.62,1,22000000,Lalitpur,Imadol,13,Paved
+6,4,2.5,3,West,2076.0,1369.0,48,21500000,Lalitpur,Tikathali,20,Concrete
+5,3,2.0,2,South East,2080.0,1026.75,3,21500000,Bhaktapur,Bhaktapur,13,Blacktopped
+5,3,2.5,1,South,2080.0,1475.95,2,36400000,Lalitpur,Sunakothi,20,Blacktopped
+6,4,3.5,2,South East,,1711.25,1,49000000,Lalitpur,Dhapakhel,16,Concrete
+4,3,2.0,3,South,,1112.31,1,26500000,Lalitpur,Imadol,12,Paved
+4,2,2.5,3,South,,6845.0,48,90000000,Lalitpur,Dhobighat,16,Blacktopped
+5,4,3.0,4,South,,1069.53,1,26500000,Lalitpur,Imadol,16,Gravelled
+5,4,3.0,1,East,,1112.31,1,32000000,Lalitpur,Imadol,13,Paved
+5,3,2.0,4,East,,1369.0,1,27000000,Kathmandu,Budhanilkantha,8,Gravelled
+4,4,3.0,1,East,2078.0,1026.75,24,21000000,Lalitpur,Imadol,13,Gravelled
+4,5,2.0,4,North,,2139.05,1,65000000,Lalitpur,Bhaisepati,13,Paved
+4,3,2.0,0,East,2077.0,1026.75,10,17500000,Bhaktapur,Bageshwori,20,Soil Stabilized
+6,3,3.0,1,East,2080.0,1219.26,1,22500000,Lalitpur,Tikathali,13,Paved
+4,4,2.5,1,West,2080.0,1026.75,1,24000000,Lalitpur,Imadol,13,Blacktopped
+5,3,2.5,1,East,2080.0,2032.1,2,44800000,Lalitpur,Sunakothi,20,Blacktopped
+2,1,1.35,1,North East,2076.0,1197.87,48,13000000,Lalitpur,Imadol,10,Gravelled
+5,3,2.5,1,East,2080.0,1647.0700000000002,2,39000000,Lalitpur,Sunakothi,20,Blacktopped
+7,4,3.0,2,North,,1540.12,12,31000000,Bhaktapur,Sipadol,20,
+2,1,1.0,3,West,,898.4,1,14500000,Lalitpur,Imadol,13,Paved
+5,3,3.0,1,South East,,1048.14,24,18000000,Bhaktapur,Changunarayan,13,
+4,4,2.5,1,South,,1026.75,8,25500000,Lalitpur,Imadol,13,Paved
+3,4,3.0,1,South,,941.18,1,25000000,Lalitpur,Tikathali,13,Paved
+5,6,3.0,4,South,,1283.43,1,35000000,Lalitpur,Imadol,13,Gravelled
+5,3,2.5,1,South,2080.0,3251.37,2,83500000,Lalitpur,Sunakothi,20,Blacktopped
+4,4,2.5,1,South,2080.0,941.18,2,23700000,Lalitpur,Imadol,13,Concrete
+3,3,2.0,2,West,2080.0,1026.75,3,26500000,Lalitpur,Tikathali,13,Paved
+6,2,2.0,0,South,2068.0,941.18,12,24500000,Kathmandu,Kapan,24,Blacktopped
+8,4,4.0,1,West,,1369.0,8,38000000,Lalitpur,Dhapakhel,20,Soil Stabilized
+5,4,3.0,1,South East,2080.0,1390.39,1,33500000,Lalitpur,Mahalaxmisthan,13,Blacktopped
+5,4,2.0,2,South West,,2395.75,1,48000000,Kathmandu,Maharajgunj,13,Gravelled
+5,5,3.0,1,West,,1112.31,1,39500000,Lalitpur,Harisiddhi,20,Blacktopped
+4,4,3.0,2,West,,1369.0,8,57000000,Lalitpur,Bhaisepati,35,Blacktopped
+6,2,3.0,2,North,2066.0,1197.87,3,19999999,Kathmandu,Dhumbarahi,8,Paved
+3,4,2.5,1,East,2073.0,941.18,2,25000000,Lalitpur,Imadol,13,Concrete
+4,4,2.5,1,South East,2080.0,1112.31,2,26500000,Lalitpur,Imadol,13,Concrete
+6,3,3.0,1,East,2075.0,1197.87,36,19500000,Bhaktapur,Sipadol,10,Gravelled
+4,3,3.0,2,South,2071.0,1754.03,48,39500000,Bhaktapur,Balkot,28,Blacktopped
+5,4,3.0,1,South,2081.0,1112.31,1,31500000,Lalitpur,Imadol,0,
+7,4,3.5,1,North,2080.0,1026.75,1,28000000,Lalitpur,Imadol,20,Concrete
+7,5,4.0,2,South West,2079.0,1625.68,10,33000000,Bhaktapur,Dadikot,13,Gravelled
+2,1,1.0,1,East,,1155.09,1,16500000,Lalitpur,Tikathali,0,
+4,4,3.0,3,North West,2077.0,1925.15,36,36500000,Lalitpur,Kusunti,13,Blacktopped
+3,2,2.5,0,North,2080.0,1411.78,3,37500000,Kathmandu,Sanobharyang,20,Gravelled
+4,3,2.5,1,East,2075.0,1197.87,12,26000000,Lalitpur,Imadol,13,Gravelled
+5,5,3.0,2,South,2078.0,3336.93,24,79500000,Lalitpur,Thecho,13,Paved
+6,3,3.0,2,East,2073.0,1711.25,24,28000000,Lalitpur,Dhapakhel,13,Blacktopped
+6,5,3.0,2,South,2080.0,1411.78,1,33500000,Lalitpur,Imadol,13,Blacktopped
+5,3,2.5,1,West,,855.62,1,21000000,Lalitpur,Nakkhu,13,Blacktopped
+5,4,2.5,2,East,2075.0,1048.14,48,26000000,Lalitpur,Hattiban,20,Gravelled
+7,5,2.0,2,South East,2080.0,1475.95,1,41500000,Lalitpur,Nakhipot,16,
+12,3,3.0,0,East,,1369.0,36,28500000,Bhaktapur,Suryabinayak,13,Blacktopped
+3,4,3.0,1,South West,2079.0,1475.95,3,35000000,Kathmandu,Thali,20,Gravelled
+4,4,2.0,4,South East,,1882.37,1,55000000,Kathmandu,Chundevi,12,Blacktopped
+5,3,3.0,1,North East,2076.0,1369.0,24,20000000,Bhaktapur,Duwakot,33,Blacktopped
+4,2,3.0,2,West,2077.0,1711.25,12,27500000,Lalitpur,Lubhu,13,Gravelled
+4,4,2.5,1,East,,1625.68,6,52000000,Kathmandu,Baluwatar,14,Blacktopped
+2,1,1.5,1,East,2077.0,1026.75,36,12500000,Lalitpur,Imadol,13,Gravelled
+4,3,3.0,2,North West,2048.0,4107.0,24,95000000,Lalitpur,Jawalakhel,26,Blacktopped
+5,3,3.0,3,North East,2075.0,2224.62,24,36500000,Kathmandu,Hattigauda,13,Paved
+6,5,3.0,2,East,2080.0,1369.0,3,33500000,Kathmandu,Kapan,14,Paved
+4,4,3.0,1,East,2078.0,1026.75,24,21000000,Lalitpur,Imadol,13,Soil Stabilized
+5,4,2.5,1,North East,2080.0,1454.56,3,58000000,Kathmandu,Thulo Bharyang,16,Concrete
+7,5,3.0,1,South,2080.0,1369.0,2,41500000,Lalitpur,Imadol,13,Concrete
+3,3,2.0,2,South West,2075.0,1711.25,24,24500000,Bhaktapur,Sirutar,13,Paved
+4,3,2.5,1,South West,2070.0,1197.87,3,28500000,Kathmandu,Swayambhu,13,Concrete
+6,5,2.0,0,West,,2909.12,1,78500000,Kathmandu,Budhanilkantha,16,Blacktopped
+5,3,2.5,1,South,2080.0,1561.51,2,39000000,Lalitpur,Sunakothi,20,Blacktopped
+5,4,2.0,4,West,,2759.39,1,29000000,Lalitpur,Imadol,13,Paved
+5,5,2.5,3,North,,2053.5,12,45000000,Lalitpur,Hattiban,16,Blacktopped
+5,5,2.0,7,South East,,6673.87,1,152500000,Kathmandu,Naxal,18,Blacktopped
+3,4,3.0,6,North,,1925.15,1,53000000,Bhaktapur,Balkot,24,Blacktopped
+4,4,2.5,1,East,,1026.75,8,24500000,Lalitpur,Imadol,13,Soil Stabilized
+2,1,1.0,1,West,2080.0,983.96,1,16000000,Lalitpur,Tikathali,13,Paved
+10,3,3.0,2,East,2077.0,1283.43,24,21000000,Bhaktapur,Changunarayan,10,Gravelled
+6,4,2.5,1,West,2077.0,1112.31,2,27000000,Lalitpur,Imadol,13,Concrete
+4,3,2.5,2,North East,,1369.0,6,60000000,Kathmandu,Tahachal,20,Blacktopped
+7,3,2.5,1,West,,1540.12,3,30000000,Kathmandu,Sitapaila,16,Blacktopped
+4,4,3.0,2,East,2078.0,1048.14,24,24500000,Lalitpur,Imadol,13,Gravelled
+9,9,4.5,3,East,,3422.5,8,70000000,Lalitpur,Satdobato,13,Blacktopped
+4,3,2.5,1,South,2080.0,1369.0,1,26000000,Lalitpur,Dhapakhel,18,Gravelled
+5,3,2.5,1,West,2080.0,2246.01,2,49200000,Lalitpur,Sunakothi,20,Blacktopped
+4,4,3.0,1,West,2078.0,1369.0,2,45000000,Kathmandu,Budhanilkantha,20,Blacktopped
+6,5,3.0,2,North,2078.0,1369.0,24,33500000,Kathmandu,Budhanilkantha,13,Gravelled
+4,5,2.5,2,South West,2080.0,2823.56,2,67700000,Kathmandu,Budhanilkantha,20,Blacktopped
+7,2,3.0,0,South,,1326.21,48,22500000,Lalitpur,Imadol,13,Gravelled
+11,5,3.5,2,South,2052.0,1369.0,36,28500000,Kathmandu,Baneshwor,20,Blacktopped
+7,5,2.5,3,South East,,3593.62,4,80000000,Kathmandu,Budhanilkantha,23,Concrete
+2,1,1.0,0,East,,1347.6,48,13000000,Lalitpur,Imadol,13,Gravelled
+7,3,2.5,1,North,2066.0,1711.25,48,39000000,Kathmandu,Baluwatar,10,Blacktopped
+2,1,1.0,3,East,,1197.87,1,17000000,Lalitpur,Tikathali,13,Blacktopped
+6,3,3.0,2,East,2069.0,1026.75,36,19000000,Kathmandu,Boudha,8,Blacktopped
+6,3,2.5,1,West,2080.0,1026.75,1,26000000,Lalitpur,Tikathali,13,Concrete
+5,4,3.0,3,South,2078.0,1197.87,24,32500000,Kathmandu,Thulo Bharyang,13,Paved
+5,5,3.0,1,South East,2080.0,1540.12,11,38500000,Kathmandu,Budhanilkantha,13,Gravelled
+5,5,3.0,1,North East,2080.0,1411.78,11,38500000,Kathmandu,Budhanilkantha,13,Gravelled
+4,3,3.0,0,South,,855.62,48,15000000,Lalitpur,Imadol,13,Gravelled
+2,1,2.0,1,East,2073.0,1112.31,24,18000000,Kathmandu,Gothatar,13,Blacktopped
+4,4,3.0,1,East,2078.0,1026.75,24,21500000,Lalitpur,Imadol,13,Gravelled
+5,5,2.5,1,North,2077.0,1711.25,36,46000000,Kathmandu,Budhanilkantha,14,Concrete
+4,5,2.5,2,South West,2080.0,2909.12,2,65600000,Kathmandu,Budhanilkantha,20,Blacktopped
+2,1,1.5,1,South,2076.0,983.96,48,11500000,Lalitpur,Tikathali,13,Gravelled
+4,4,3.0,2,East,2078.0,1197.87,24,24500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.5,2,South West,2074.0,1925.15,2,41500000,Kathmandu,Sitapaila,20,Blacktopped
+2,1,1.5,2,South West,2076.0,1369.0,48,15500000,Kathmandu,Kadaghari,20,Gravelled
+5,4,3.0,3,East,,1026.75,1,25500000,Lalitpur,Imadol,13,
+6,6,2.5,1,West,2080.0,1540.12,1,38000000,Kathmandu,Budhanilkantha,13,Concrete
+4,4,3.0,1,West,2080.0,1711.25,1,40000000,Kathmandu,Budhanilkantha,30,Blacktopped
+3,4,2.5,2,West,2074.0,1262.04,2,34100000,Kathmandu,Sitapaila,20,Blacktopped
+4,2,2.0,1,West,,1925.15,36,25500000,Kathmandu,Syuchatar,0,
+4,5,2.5,2,South West,2080.0,2823.56,2,67600000,Kathmandu,Budhanilkantha,20,Blacktopped
+3,4,3.5,1,North,2078.0,2203.23,12,53600000,Kathmandu,Sitapaila,20,Paved
+5,4,2.5,2,East,2077.0,1026.75,36,19500000,Lalitpur,Imadol,12,Gravelled
+6,3,2.5,1,West,2080.0,1540.12,1,38500000,Kathmandu,Kapan,12,Concrete
+5,4,2.5,1,East,2080.0,1197.87,2,29500000,Kathmandu,Kapan,13,Concrete
+5,4,3.0,0,East,,2566.87,48,30000000,Bhaktapur,Kausaltar,15,Blacktopped
+4,4,2.5,1,East,,1454.56,12,35000000,Kathmandu,Baniyatar,16,Blacktopped
+4,3,3.0,1,South,,1369.0,8,38000000,Kathmandu,Budhanilkantha,16,Blacktopped
+5,6,2.5,1,West,,1197.87,1,50000000,Kathmandu,Ravi Bhawan,32,Blacktopped
+7,5,2.0,3,East,,1625.68,1,46000000,Kathmandu,Budhanilkantha,14,Gravelled
+6,5,3.0,3,East,2076.0,1369.0,48,38700000,Kathmandu,Baneshwor,15,Blacktopped
+4,4,3.0,3,East,,1197.87,1,41000000,Kathmandu,Soltimode,0,
+3,3,3.0,1,South,,855.62,8,22500000,Kathmandu,Sitapaila,10,Gravelled
+6,5,4.0,0,South West,,2139.06,48,37500000,Lalitpur,Khumaltar,13,
+3,3,2.5,2,West,2074.0,1369.0,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+6,5,3.0,2,North,2078.0,1369.0,24,37500000,Kathmandu,Budhanilkantha,13,Gravelled
+4,4,2.5,2,West,2074.0,1197.87,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+5,5,3.0,2,South,,1090.92,1,31500000,Lalitpur,Imadol,13,Paved
+6,4,3.0,1,South West,,1711.25,1,37000000,Kathmandu,Kapan,20,Blacktopped
+6,3,3.0,1,East,2076.0,1197.87,48,22500000,Lalitpur,Tikathali,12,Blacktopped
+5,3,2.5,1,West,2077.0,1026.75,36,20000000,Lalitpur,Imadol,13,Gravelled
+4,3,2.5,1,South,2076.0,1026.75,48,19000000,Lalitpur,Imadol,13,Gravelled
+5,3,2.5,1,East,2076.0,1026.75,48,16000000,Kathmandu,Tinthana,13,Blacktopped
+7,3,2.5,2,West,2076.0,1240.65,48,35000000,Kathmandu,Sankhamul,12,Paved
+5,4,2.5,0,East,2080.0,1625.68,1,55000000,Kathmandu,Chhauni,10,Gravelled
+3,9,3.0,0,North East,2076.0,941.18,48,13500000,Lalitpur,Imadol,10,Soil Stabilized
+9,7,5.0,0,North,,1133.7,24,35000000,Kathmandu,Baghbazaar,10,Blacktopped
+6,5,4.0,3,North East,2079.0,1711.25,12,43500000,Kathmandu,Budhanilkantha,13,Blacktopped
+4,4,3.0,2,East,2078.0,1197.87,24,22500000,Lalitpur,Imadol,13,Soil Stabilized
+6,5,3.0,3,West,2076.0,3058.85,36,57500000,Lalitpur,Nakhipot,20,Blacktopped
+4,4,2.5,1,East,,1411.78,1,39000000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,4,2.5,5,South,,5133.75,9,115000000,Kathmandu,Sanobharyang,20,Blacktopped
+5,3,2.5,1,West,2077.0,1112.31,36,25000000,Lalitpur,Imadol,20,Gravelled
+5,3,3.0,2,North,2066.0,1155.09,24,29500000,Kathmandu,Koteshwor,26,Blacktopped
+4,5,2.5,2,South East,2080.0,2844.95,2,64300000,Kathmandu,Budhanilkantha,20,Blacktopped
+6,3,2.5,2,South,2069.0,1882.37,24,32500000,Kathmandu,Basundhara,15,Gravelled
+5,6,2.0,3,West,,1711.25,1,43000000,Kathmandu,Budhanilkantha,13,Gravelled
+2,1,1.0,1,West,2076.0,1026.75,48,12500000,Lalitpur,Imadol,20,Gravelled
+10,3,3.0,2,South,2076.0,1454.56,48,27500000,Kathmandu,Budhanilkantha,13,Blacktopped
+8,0,3.0,0,West,,855.62,48,14000000,Kathmandu,Gothatar,13,Gravelled
+6,3,3.5,1,South,2077.0,1048.14,36,19000000,Kathmandu,Kadaghari,13,Gravelled
+4,5,2.5,1,South West,2076.0,1369.0,48,21000000,Lalitpur,Imadol,20,Gravelled
+5,4,2.0,3,East,2078.0,2823.56,1,70000000,Kathmandu,Baneshwor,13,Paved
+4,5,2.5,2,South West,2080.0,2438.53,2,58300000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,4,3.0,2,South East,2076.0,1796.81,48,32000000,Kathmandu,Budhanilkantha,13,Blacktopped
+7,4,2.0,1,South East,2076.0,2395.75,48,50000000,Kathmandu,Mid Baneshwor,10,Concrete
+6,4,2.5,1,West,,1155.09,1,25000000,Kathmandu,Sitapaila,13,Gravelled
+9,6,5.5,31,North,2075.0,4962.62,48,155000000,Kathmandu,Thulo Bharyang,20,Blacktopped
+5,3,2.5,1,East,2076.0,1112.31,48,19500000,Lalitpur,Imadol,20,Gravelled
+5,5,4.0,0,East,2070.0,1219.26,36,17000000,Lalitpur,Lubhu,13,Gravelled
+4,3,2.5,1,East,,1369.0,10,39500000,Kathmandu,Budhanilkantha,16,Gravelled
+4,4,2.5,1,North East,2077.0,1197.87,36,21400000,Lalitpur,Imadol,13,Gravelled
+2,1,1.5,1,South,2076.0,1112.31,48,12500000,Lalitpur,Imadol,13,Gravelled
+6,4,3.0,1,South,2076.0,1604.29,48,25000000,Kathmandu,Kirtipur,12,Gravelled
+18,0,4.0,0,North,,1454.56,48,29000000,Kathmandu,Kapan,32,Gravelled
+5,3,3.0,0,West,,1155.09,48,27000000,Lalitpur,Ekantakuna,22,Blacktopped
+5,3,2.5,2,East,2076.0,1197.87,48,22000000,Lalitpur,Imadol,20,Gravelled
+6,3,2.5,1,South East,2076.0,1026.75,48,16500000,Kathmandu,Goldhunga,10,Gravelled
+5,6,3.0,5,North,2074.0,1967.93,48,39500000,Kathmandu,Banasthali,20,Blacktopped
+6,4,3.0,8,West,,2224.62,48,35000000,Kathmandu,Dhapasi,32,Blacktopped
+6,6,3.0,1,West,2080.0,1326.21,2,37500000,Kathmandu,Thulo Bharyang,11,Concrete
+2,1,1.5,1,West,2077.0,1026.75,36,13500000,Lalitpur,Imadol,13,Gravelled
+6,3,3.0,2,North,2076.0,1369.0,24,30000000,Kathmandu,Koteshwor,15,Concrete
+2,1,1.5,1,East,2076.0,1026.75,48,11000000,Lalitpur,Tikathali,13,Gravelled
+4,3,2.5,2,North West,2076.0,1197.87,48,19000000,Lalitpur,Imadol,13,Gravelled
+5,3,2.5,1,West,2076.0,1197.87,48,22000000,Lalitpur,Imadol,20,Gravelled
+6,3,3.0,1,South West,2076.0,1048.14,36,18500000,Kathmandu,Kageshwari-Manohara,13,Gravelled
+7,3,3.0,0,South East,,1540.12,48,24500000,Kathmandu,Tokha,10,Gravelled
+11,7,3.5,1,South,,4278.12,1,110000000,Kathmandu,Chabahil,12,Concrete
+10,3,3.0,1,South,,1283.43,48,22000000,Lalitpur,Imadol,13,Blacktopped
+5,3,2.5,1,South West,2077.0,1197.87,36,25000000,Lalitpur,Imadol,13,Gravelled
+6,5,2.5,1,South East,2080.0,2053.5,2,49500000,Kathmandu,Budhanilkantha,13,Concrete
+4,3,2.5,1,East,2076.0,1026.75,48,18500000,Lalitpur,Imadol,13,Gravelled
+6,5,2.5,1,West,2080.0,1112.31,2,31500000,Kathmandu,Kapan,13,Concrete
+6,7,5.0,4,North East,2079.0,2566.87,8,70000000,Kathmandu,Sitapaila,13,Gravelled
+6,5,4.0,2,South,2077.0,1540.12,8,27500000,Kathmandu,Sitapaila,12,Concrete
+4,4,2.5,2,West,2074.0,1219.26,2,37400000,Kathmandu,Sitapaila,20,Blacktopped
+8,0,3.0,0,South,,1069.53,48,19000000,Kathmandu,Banasthali,10,Blacktopped
+5,2,4.0,1,East,2076.0,1369.0,48,20000000,Lalitpur,Tikathali,15,Gravelled
+2,1,1.5,1,West,2077.0,941.18,36,11300000,Lalitpur,Imadol,13,Gravelled
+4,3,3.0,0,South East,,1090.92,48,19000000,Lalitpur,Imadol,10,Gravelled
+4,3,2.5,1,South East,,2053.5,3,55000000,Kathmandu,Boudha,20,Blacktopped
+5,6,2.5,0,East,,1540.12,1,46000000,Kathmandu,Sanobharyang,16,Concrete
+6,4,2.5,1,West,2077.0,1090.92,1,27500000,Kathmandu,Swayambhu,12,Concrete
+6,5,2.5,1,South,2080.0,1411.78,2,37000000,Kathmandu,Kapan,13,Concrete
+3,1,1.0,0,North,,855.62,48,7500000,Kathmandu,Kadaghari,4,Soil Stabilized
+5,3,2.5,1,North East,,2053.5,8,60000000,Kathmandu,Budhanilkantha,14,Blacktopped
+6,4,2.5,2,East,2076.0,1197.87,36,24500000,Kathmandu,Budhanilkantha,13,Gravelled
+6,4,2.5,2,West,2077.0,1112.31,36,21000000,Kathmandu,Kadaghari,13,Blacktopped
+5,3,2.5,1,South,2076.0,1112.31,48,21500000,Lalitpur,Imadol,20,Blacktopped
+4,4,2.5,2,East,2074.0,1390.39,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+5,4,2.5,1,East,2076.0,1197.87,36,28700000,Lalitpur,Imadol,13,Blacktopped
+6,4,2.5,1,East,2080.0,1369.0,1,32500000,Kathmandu,Sitapaila,14,Concrete
+6,6,3.0,3,South,,1411.78,1,41000000,Lalitpur,Imadol,13,Paved
+4,0,2.0,2,East,,1026.75,24,26000000,Kathmandu,Halchowk,13,Paved
+4,3,2.5,1,South,2076.0,1155.09,48,17000000,Lalitpur,Imadol,13,Gravelled
+6,4,2.5,1,South East,2065.0,1369.0,48,32500000,Kathmandu,Sukedhara,12,Concrete
+5,4,3.0,2,West,2078.0,1454.56,12,42500000,Kathmandu,Budhanilkantha,13,Gravelled
+6,4,2.5,1,East,2080.0,1369.0,1,40000000,Kathmandu,Budhanilkantha,20,Concrete
+6,3,1.5,10,East,,71188.0,1,260000000,Kathmandu,Tarkeshwor,15,Gravelled
+3,4,2.0,2,West,2077.0,3764.75,36,110000000,Kathmandu,Budhanilkantha,14,Concrete
+2,1,1.5,1,West,2076.0,1026.75,48,12000000,Lalitpur,Imadol,13,Gravelled
+4,4,3.0,1,East,2078.0,1112.31,24,21000000,Lalitpur,Imadol,13,Soil Stabilized
+4,4,2.5,2,East,2074.0,1326.21,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+6,3,2.5,1,South,2076.0,1197.87,48,22500000,Lalitpur,Imadol,20,Blacktopped
+5,4,3.0,3,North,,1048.14,48,20000000,Lalitpur,Satdobato,16,
+5,4,2.5,2,West,2077.0,1026.75,36,21000000,Lalitpur,Imadol,12,Gravelled
+4,5,2.5,1,East,2078.0,1454.56,2,46500000,Kathmandu,Budhanilkantha,16,Concrete
+7,6,4.0,2,South East,,2738.0,12,50000000,Kathmandu,Gurujudhara,13,Concrete
+4,3,2.5,1,North East,,1903.76,5,54000000,Kathmandu,Budhanilkantha,20,Blacktopped
+2,1,1.0,0,North East,,1048.14,48,12000000,Lalitpur,Imadol,12,Soil Stabilized
+4,5,2.5,1,East,2079.0,1133.7,1,22000000,Kathmandu,Sitapaila,20,Gravelled
+6,5,2.5,1,South,2080.0,1497.34,2,35000000,Kathmandu,Kapan,13,Concrete
+4,5,2.0,3,East,2078.0,1711.25,24,26000000,Kathmandu,Hattigauda,22,Gravelled
+6,0,3.0,4,North,2042.0,2224.62,48,42500000,Kathmandu,Shantinagar,10,Blacktopped
+10,3,3.0,0,South,,1112.31,48,22000000,Kathmandu,Boudha,20,
+5,4,3.0,1,South,2080.0,1026.75,1,26500000,Lalitpur,Imadol,13,Gravelled
+7,5,3.0,2,East,2064.0,2053.5,12,55100000,Kathmandu,Sinamangal,13,Blacktopped
+4,4,2.5,2,South,2074.0,1197.87,2,35750000,Kathmandu,Sitapaila,20,Blacktopped
+5,4,2.5,1,East,2077.0,1411.78,36,23500000,Lalitpur,Imadol,13,Gravelled
+4,3,2.5,1,North East,2076.0,1197.87,36,22000000,Lalitpur,Imadol,13,Blacktopped
+4,3,2.5,1,East,2076.0,1369.0,48,21500000,Lalitpur,Imadol,20,Gravelled
+4,5,2.5,1,South,2078.0,1454.56,2,46500000,Kathmandu,Budhanilkantha,16,Concrete
+6,5,2.5,1,North East,2080.0,1369.0,2,33500000,Kathmandu,Kapan,13,Concrete
+3,3,2.5,2,West,2074.0,1604.29,2,39050000,Kathmandu,Sitapaila,20,Blacktopped
+5,3,2.5,2,East,2076.0,1197.87,48,19500000,Lalitpur,Imadol,13,Gravelled
+9,3,3.0,2,South,2064.0,1026.75,36,25000000,Kathmandu,Budhanilkantha,13,Gravelled
+4,2,1.5,1,North East,2076.0,1026.75,48,13000000,Lalitpur,Imadol,13,Gravelled
+5,5,2.5,1,South,,2053.5,48,60000000,Kathmandu,Baluwatar,13,Blacktopped
+3,2,2.5,1,South,,1048.14,48,21000000,Lalitpur,Gwarko,13,Blacktopped
+5,2,3.0,2,North,,1133.7,48,25500000,Kathmandu,Samakhusi,0,
+12,4,4.0,5,North,,1411.78,48,45000000,Kathmandu,Balaju,0,
+4,4,3.0,1,North,2078.0,1026.75,24,21000000,Lalitpur,Imadol,13,Gravelled
+5,3,3.0,0,North,2076.0,1197.87,48,19500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.5,2,West,2074.0,1240.65,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+2,1,1.0,0,West,,1112.31,48,8500000,Kathmandu,Gurujudhara,10,Gravelled
+3,4,2.5,2,East,2074.0,1090.92,2,34100000,Kathmandu,Sitapaila,20,Blacktopped
+2,1,1.0,2,North,,1197.87,1,19500000,Kathmandu,Budhanilkantha,14,Paved
+7,3,3.0,1,North,2080.0,1069.53,1,29000000,Lalitpur,Imadol,0,
+6,4,4.0,3,North,,1048.14,48,22500000,Kathmandu,Samakhusi,10,
+4,4,2.5,2,East,2074.0,1262.04,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+5,4,3.0,1,East,2075.0,1475.95,60,25500000,Kathmandu,Sitapaila,13,
+7,4,3.5,1,West,2076.0,1026.75,48,19000000,Bhaktapur,Sipadol,20,Gravelled
+4,3,2.5,1,North East,2076.0,1197.87,48,19500000,Lalitpur,Imadol,20,Gravelled
+2,1,1.0,1,North East,,1369.0,36,15000000,Kathmandu,Thali,18,Gravelled
+5,4,3.0,1,North,2080.0,1026.75,2,31500000,Kathmandu,Thulo Bharyang,13,Concrete
+4,4,2.5,2,West,2074.0,1326.21,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+4,3,2.5,0,North,2076.0,1197.87,48,26000000,Kathmandu,Gongabu,13,Blacktopped
+7,3,2.5,2,West,2067.0,1475.95,48,20000000,Kathmandu,Makalbari,10,Gravelled
+3,3,3.0,1,South East,,1090.92,48,20000000,Lalitpur,Harisiddhi,18,
+10,4,3.5,1,West,,1069.53,1,21000000,Kathmandu,Kapan,13,Blacktopped
+5,3,2.5,1,North,2076.0,1155.09,1,27000000,Kathmandu,Samakhusi,13,Blacktopped
+6,5,2.0,3,West,,1411.78,1,38000000,Kathmandu,Budhanilkantha,13,Gravelled
+8,6,3.0,4,South,,1497.34,48,32500000,Kathmandu,Dhumbarahi,13,Gravelled
+4,2,1.5,1,North West,2074.0,1711.25,24,16500000,Kathmandu,Budhanilkantha,13,Soil Stabilized
+2,1,1.5,1,South,2076.0,1026.75,48,12500000,Lalitpur,Tikathali,13,Gravelled
+7,3,3.0,1,West,,2652.43,48,43500000,Kathmandu,Shantinagar,13,Blacktopped
+4,4,3.0,2,East,2075.0,1390.39,48,19000000,Lalitpur,Thaiba,13,Gravelled
+4,4,4.0,1,West,2079.0,1283.43,8,22500000,Kathmandu,Sitapaila,13,Gravelled
+5,6,3.0,3,East,2077.0,2053.5,36,45000000,Kathmandu,Budhanilkantha,26,Blacktopped
+4,5,2.5,2,South East,2080.0,2823.56,2,64150000,Kathmandu,Budhanilkantha,20,Blacktopped
+4,4,2.5,2,North,2074.0,1262.04,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+4,2,1.5,1,South,2072.0,1625.68,48,16500000,Kathmandu,Syuchatar,18,Concrete
+11,4,3.0,2,East,2077.0,1454.56,36,26500000,Kathmandu,Kapan,13,Blacktopped
+3,3,3.0,2,South,2076.0,1112.31,48,18500000,Lalitpur,Imadol,13,Gravelled
+4,3,3.0,1,South,2074.0,1540.12,48,32500000,Kathmandu,Bhangal,26,Paved
+4,4,3.0,1,South,2078.0,2738.0,24,45000000,Kathmandu,Budhanilkantha,20,Concrete
+11,0,3.0,0,North,,1369.0,48,25500000,Kathmandu,Kapan,13,Blacktopped
+3,3,3.5,0,East,2080.0,1155.09,1,23000000,Kathmandu,Ramkot,20,Concrete
+4,4,2.5,2,South East,2074.0,1283.43,2,35750000,Kathmandu,Sitapaila,20,Blacktopped
+6,3,2.5,1,South,2076.0,1112.31,36,19500000,Lalitpur,Imadol,12,Gravelled
+5,3,2.5,1,South East,2076.0,1069.53,48,17500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.5,2,East,2074.0,1197.87,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+10,6,3.5,7,North East,,8214.0,3,140000000,Kathmandu,Budhanilkantha,16,Blacktopped
+5,6,2.5,2,West,2077.0,1711.25,36,46000000,Kathmandu,Budhanilkantha,14,Concrete
+6,4,2.5,1,South,2080.0,1518.73,2,29500000,Kathmandu,Kapan,13,Concrete
+5,6,2.5,1,South,,1369.0,1,52500000,Kathmandu,Ravi Bhawan,32,Blacktopped
+6,4,2.5,1,South,2076.0,1069.53,48,17500000,Lalitpur,Imadol,16,Gravelled
+4,3,2.0,2,East,2073.0,1197.87,48,24500000,Kathmandu,Chandol,13,Soil Stabilized
+4,4,2.5,2,North,2074.0,1347.6,2,34100000,Kathmandu,Sitapaila,20,Blacktopped
+3,2,2.0,1,North,2070.0,1026.75,1,20000000,Kathmandu,Kadaghari,13,Paved
+5,4,3.0,1,South East,2073.0,1647.0700000000002,48,28500000,Lalitpur,Bhaisepati,13,Blacktopped
+8,8,3.5,2,West,2077.0,2738.0,1,44000000,Kathmandu,Ramkot,13,Concrete
+7,4,3.5,2,South,2076.0,1540.12,48,22000000,Lalitpur,Imadol,13,Gravelled
+5,5,2.5,2,North,,2738.0,8,75000000,Kathmandu,Budhanilkantha,13,Blacktopped
+3,3,2.0,1,South West,,1882.37,48,25000000,Lalitpur,Harisiddhi,0,
+2,1,1.0,0,North,,1454.55,48,7500000,Kathmandu,Kapan,12,Gravelled
+8,4,4.0,0,West,,1197.87,48,17000000,Kathmandu,Tokha,20,Gravelled
+2,1,1.5,2,West,2076.0,941.18,48,11000000,Lalitpur,Tikathali,13,Gravelled
+7,0,2.0,0,North,,1112.31,48,17800000,Kathmandu,Budhanilkantha,15,Gravelled
+6,3,2.5,2,North,2076.0,1197.87,48,20000000,Lalitpur,Imadol,13,Gravelled
+4,4,2.0,2,South West,,3657.79,12,73100000,Kathmandu,Sitapaila,18,Blacktopped
+13,5,3.5,1,North West,2060.0,1369.0,2,44000000,Kathmandu,Baneshwor,12,Concrete
+4,4,2.5,1,West,2077.0,1133.7,36,19000000,Lalitpur,Imadol,20,Gravelled
+9,1,3.0,1,West,2076.0,2053.5,48,21500000,Bhaktapur,Bhaktapur,20,Gravelled
+4,4,2.5,1,East,2075.0,1369.0,48,24000000,Kathmandu,Sitapaila,13,Blacktopped
+7,3,3.0,2,South,2078.0,1732.64,24,29500000,Kathmandu,Kapan,13,Gravelled
+7,2,3.0,1,West,2079.0,1411.78,1,38000000,Kathmandu,Kadaghari,13,Gravelled
+2,4,3.0,1,North,2077.0,1283.43,36,21500000,Lalitpur,Mahalaxmi Nagarpalika,12,Gravelled
+5,2,3.0,1,South,2067.0,2374.35,48,29500000,Kathmandu,Naikap,15,Blacktopped
+5,3,2.0,3,South West,,1369.0,24,28500000,Kathmandu,Bafal,13,Gravelled
+4,3,3.0,0,South,,1283.43,48,23500000,Lalitpur,Imadol,20,Gravelled
+7,3,2.0,3,East,,1369.0,1,29500000,Lalitpur,Harisiddhi,13,Blacktopped
+5,5,3.0,2,West,,2224.62,24,65000000,Kathmandu,Baluwatar,20,Paved
+5,3,2.0,1,South East,2079.0,1112.31,1,25000000,Kathmandu,Bafal,14,Concrete
+4,3,2.5,1,South,2076.0,1026.75,48,18000000,Lalitpur,Imadol,13,Gravelled
+6,5,2.5,3,South East,,1711.25,1,46000000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,3,2.0,9,North,2068.0,71188.0,1,260000000,Kathmandu,Tarkeshwor,20,Paved
+6,4,3.0,1,East,2075.0,1540.12,5,35000000,Kathmandu,Kapan,13,Concrete
+6,5,2.5,1,East,,1369.0,48,21000000,Kathmandu,Sitapaila,14,Concrete
+9,4,4.0,4,South,,4406.46,48,63000000,Kathmandu,Basbari,13,
+4,5,3.0,0,North,2078.0,1411.78,2,46500000,Kathmandu,Budhanilkantha,16,Concrete
+3,4,2.5,1,West,,855.62,48,17700000,Lalitpur,Dhapakhel,12,Blacktopped
+5,4,2.5,1,West,2077.0,1112.31,36,18000000,Lalitpur,Imadol,20,Gravelled
+4,3,2.5,1,North West,2076.0,1369.0,48,17000000,Kathmandu,Kalanki,10,Blacktopped
+5,0,3.0,0,West,,1369.0,48,29000000,Kathmandu,Kadaghari,12,Blacktopped
+3,3,2.5,2,West,2074.0,1197.87,2,34650000,Kathmandu,Sitapaila,20,Blacktopped
+4,4,2.0,1,West,2076.0,1262.04,48,19500000,Lalitpur,Baghdol,20,Gravelled
+4,3,3.0,2,North West,2066.0,1026.75,24,22500000,Kathmandu,Jorpati,14,Blacktopped
+3,3,2.0,1,West,2068.0,2887.73,5,41000000,Kathmandu,Chandragiri,16,Paved
+5,3,2.5,1,West,2076.0,855.62,48,15000000,Lalitpur,Imadol,13,Gravelled
+4,4,4.0,1,West,2078.0,1540.12,2,47500000,Kathmandu,Budhanilkantha,20,Blacktopped
+10,3,3.0,2,West,2066.0,4107.0,12,75000000,Kathmandu,Bafal,13,Blacktopped
+5,4,2.5,2,North East,2075.0,1026.75,36,25000000,Kathmandu,Pepsicola,18,Gravelled
+5,3,2.5,2,East,2076.0,1112.31,48,21500000,Lalitpur,Imadol,20,Blacktopped
+4,4,3.0,1,South West,2068.0,1711.25,24,39000000,Kathmandu,Minbhawan,13,Blacktopped
+5,4,3.5,1,South,,1155.09,1,39500000,Kathmandu,Gaushala,15,Blacktopped
+6,4,2.5,3,East,2078.0,1711.25,1,46500000,Kathmandu,Budhanilkantha,13,Gravelled
+5,6,2.5,2,East,2072.0,3379.71,36,80000000,Kathmandu,Chandol,20,Blacktopped
+5,3,2.5,2,West,2071.0,1540.12,36,23500000,Kathmandu,Raniban,10,Blacktopped
+5,2,2.5,1,West,2076.0,1197.87,48,18500000,Lalitpur,Imadol,13,Gravelled
+5,3,2.5,1,East,2077.0,1026.75,36,22000000,Lalitpur,Imadol,13,Gravelled
+7,5,2.5,2,North,2074.0,1411.78,2,41250000,Kathmandu,Sitapaila,20,Blacktopped
+6,5,2.5,1,West,2080.0,1112.31,1,31500000,Kathmandu,Mandikatar,13,Concrete
+7,2,2.5,1,South East,2077.0,1026.75,8,24000000,Kathmandu,Kapan,13,Blacktopped
+6,4,3.0,3,North West,2078.0,1197.87,24,36000000,Kathmandu,Tarkeshwor,13,Paved
+5,3,2.5,1,North West,2076.0,1369.0,48,22000000,Lalitpur,Imadol,10,Gravelled
+4,3,3.0,1,East,2078.0,1026.75,24,21500000,Lalitpur,Imadol,13,Soil Stabilized
+12,4,4.0,3,East,2062.0,2738.0,24,80000000,Kathmandu,Minbhawan,18,Concrete
+10,7,4.0,2,North,2067.0,1882.37,12,55000000,Kathmandu,Dhumbarahi,13,Concrete
+2,2,1.5,1,South East,2075.0,1112.31,36,10500000,Kathmandu,Gokarneshwor,12,Gravelled
+6,5,3.0,20,North East,,20535.0,8,280000000,Kathmandu,Sanobharyang,20,Blacktopped
+2,1,1.5,1,North East,2076.0,1411.78,48,15000000,Lalitpur,Tikathali,16,Blacktopped
+4,4,2.5,2,East,2074.0,1369.0,2,38500000,Kathmandu,Sitapaila,20,Blacktopped
+4,1,1.5,0,North East,,1796.81,48,12000000,Lalitpur,Imadol,4,Concrete
+7,6,2.0,3,West,,1369.0,1,44500000,Lalitpur,Tikathali,23,Paved
+4,4,3.0,1,East,2078.0,1326.21,2,42000000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,5,2.5,1,North,,3080.25,5,80000000,Kathmandu,Sanobharyang,20,Blacktopped
+6,5,3.0,3,South,2068.0,2738.0,12,72500000,Kathmandu,Balkhu,20,Blacktopped
+7,0,2.0,0,North,,855.62,48,13200000,Kathmandu,Kadaghari,13,Gravelled
+5,3,2.5,2,South,,1197.87,48,17000000,Lalitpur,Lubhu,20,Blacktopped
+8,3,2.5,1,South,2076.0,1026.75,48,17000000,Lalitpur,Imadol,13,Gravelled
+5,4,2.5,1,North East,2077.0,1026.75,36,18500000,Lalitpur,Imadol,12,Gravelled
+2,1,1.5,1,West,2076.0,1155.09,48,12500000,Lalitpur,Imadol,13,Gravelled
+7,5,2.5,2,South East,2069.0,5476.0,1,80000000,Kathmandu,Manamaiju,13,Concrete
+7,5,4.0,2,West,2078.0,1711.25,12,49500000,Kathmandu,Budhanilkantha,13,Blacktopped
+4,5,3.0,1,North,2076.0,1026.75,48,18000000,Lalitpur,Nakkhu,13,Soil Stabilized
+4,4,2.0,2,East,2080.0,1540.12,1,35000000,Kathmandu,Budhanilkantha,13,Gravelled
+5,4,3.0,4,East,,1647.0700000000002,36,26000000,Kathmandu,Sukedhara,0,
+6,4,2.0,2,South,2080.0,1454.56,2,42500000,Lalitpur,Imadol,13,Paved
+6,3,3.0,2,South,2075.0,1454.56,4,34000000,Kathmandu,Kageshwari-Manohara,20,Blacktopped
+2,1,1.0,2,North East,2080.0,1197.87,1,18000000,Lalitpur,Tikathali,13,Gravelled
+6,5,3.0,1,South,,1197.87,1,35500000,Lalitpur,Imadol,13,
+4,3,2.0,1,East,2080.0,962.57,1,23000000,Lalitpur,Tikathali,13,Gravelled
+4,3,2.0,2,South West,2080.0,941.18,1,23500000,Lalitpur,Imadol,13,Gravelled
+5,4,2.0,1,South,,1112.31,1,29500000,Lalitpur,Imadol,0,Paved
+4,4,3.0,1,North,2080.0,1240.65,1,28500000,Lalitpur,Harisiddhi,20,Gravelled
+6,4,3.0,1,South,,1540.12,1,29000000,Lalitpur,Imadol,0,Paved
+3,3,2.0,1,South,2079.0,16684.68,1,17500000,Lalitpur,Lamatar,13,Paved
+6,5,2.0,2,East,2080.0,1411.78,3,35000000,Kathmandu,Budhanilkantha,13,Paved
+4,4,2.0,1,East,2080.0,983.96,1,23000000,Lalitpur,Imadol,13,Gravelled
+2,1,1.0,2,North West,2077.0,1197.87,2,17000000,Lalitpur,Lubhu,20,
+3,4,3.0,1,East,2072.0,1347.6,48,33000000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,0,3.0,0,North East,,1475.95,48,28500000,Kathmandu,Golfutar,12,Gravelled
+2,1,1.0,1,West,2078.0,1540.12,2,19500000,Kathmandu,Tarkeshwor,26,Gravelled
+4,3,3.0,1,East,2079.0,1369.0,1,35000000,Lalitpur,Sunakothi,13,Blacktopped
+6,4,3.0,1,South,2070.0,1369.0,36,32500000,Bhaktapur,Kausaltar,20,Gravelled
+4,4,3.0,2,East,2080.0,1026.75,1,27500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.0,2,West,2080.0,1369.0,3,35000000,Lalitpur,Bhaisepati,20,Paved
+5,3,3.0,1,South,,1369.0,9,27500000,Bhaktapur,Suryabinayak,13,
+5,5,2.5,0,South West,2074.0,4449.25,3,97500000,Kathmandu,Sanobharyang,20,Blacktopped
+14,4,3.0,0,East,,24299.75,60,35000000,Bhaktapur,Lokanthali,14,
+2,3,2.0,2,East,,2738.0,6,43500000,Kathmandu,Kalanki,14,
+5,4,2.0,10,East,2065.0,9925.25,3,175000000,Kathmandu,Sitapaila,16,Blacktopped
+6,3,3.0,1,South,2080.0,1026.75,1,26000000,Lalitpur,Tikathali,13,Paved
+10,5,4.0,6,North East,,8214.0,3,145000000,Kathmandu,Budhanilkantha,18,
+2,1,1.0,0,North East,2077.0,2053.5,24,5200000,Bhaktapur,Nagarkot,0,Soil Stabilized
+5,4,3.0,1,North,2080.0,1026.75,1,27500000,Lalitpur,Imadol,13,Paved
+6,3,3.0,3,North,2073.0,1369.0,36,14500000,Bhaktapur,Duwakot,10,Gravelled
+5,4,3.5,0,North West,,49626.25,12,69500000,Lalitpur,Dhapakhel,11,Blacktopped
+5,3,3.0,1,East,2080.0,1026.75,3,22500000,Kathmandu,Kapan,10,Gravelled
+5,4,3.0,3,South,,1026.75,1,33500000,Lalitpur,Imadol,13,Paved
+8,7,3.5,2,East,2075.0,24299.75,60,33000000,Lalitpur,Harisiddhi,10,
+3,4,3.0,2,North,2069.0,1026.75,36,19000000,Bhaktapur,Balkot,10,Soil Stabilized
+3,1,1.0,1,East,2076.0,1369.0,36,8000000,Bhaktapur,Bhaktapur,8,
+3,4,3.0,1,South West,2073.0,1026.75,3,19900000,Kathmandu,Gokarneshwor,13,Blacktopped
+5,3,3.0,1,East,2076.0,1369.0,5,30000000,Kathmandu,Gothatar,20,Blacktopped
+5,3,2.0,2,South,2078.0,1026.75,3,25000000,Lalitpur,Imadol,13,Gravelled
+3,1,2.0,2,West,2080.0,1026.75,6,12500000,Kathmandu,Chandragiri,14,Paved
+5,7,3.0,2,East,2076.0,7529.5,36,140000000,Bhaktapur,Bode,20,Gravelled
+5,5,2.5,2,North,,3080.25,12,52500000,Bhaktapur,Balkot,26,Paved
+4,2,3.0,10,South East,,9925.25,6,175000000,Kathmandu,Sitapaila,16,
+8,4,4.0,1,West,2075.0,1711.25,24,29900000,Kathmandu,Goldhunga,10,Gravelled
+11,3,3.0,0,North,,1369.0,48,24000000,Kathmandu,Nepaltar,13,Blacktopped
+10,6,3.0,4,East,,10952.0,48,24000000,Kathmandu,Pepsicola,13,
+9,0,3.0,0,South East,,11978.75,48,19800000,Kathmandu,Basundhara,12,Gravelled
+4,4,3.0,2,North East,2076.0,1711.25,48,30500000,Kathmandu,Budhanilkantha,15,Blacktopped
+9,4,4.0,0,East,,21561.75,48,34500000,Kathmandu,Sukedhara,12,
+9,4,3.0,3,South,,1026.75,48,22500000,Kathmandu,Samakhusi,13,Blacktopped
+5,3,3.0,0,South,,1369.0,48,27500000,Kathmandu,Tokha,26,Gravelled
+4,2,2.0,2,South,,10609.75,48,21000000,Kathmandu,Swayambhu,18,
+5,3,3.0,1,East,,1369.0,48,22500000,Kathmandu,Naikap,13,
+11,0,3.0,0,South,,2053.5,48,45000000,Kathmandu,Basundhara,14,
+4,4,3.0,2,West,2071.0,10952.0,48,15000000,Kathmandu,Kapan,0,
+6,4,3.5,3,South East,,10952.0,48,36000000,Kathmandu,Kadaghari,13,
+5,2,3.0,0,West,,11978.75,48,22700000,Kathmandu,Thulo Bharyang,12,Gravelled
+6,3,3.0,3,South,,1369.0,48,16500000,Kathmandu,Tarkeshwor,12,
+12,0,4.0,4,East,,2395.75,48,40000000,Kathmandu,Dhumbarahi,13,
+8,3,4.0,1,South West,,1369.0,48,31000000,Kathmandu,Chundevi,14,Gravelled
+6,3,3.0,2,East,2076.0,1711.25,48,27800000,Kathmandu,Mandikatar,13,Gravelled
+10,0,3.0,3,West,,2053.5,48,29800000,Kathmandu,Budhanilkantha,13,
+10,6,5.0,4,West,,14374.5,48,30000000,Kathmandu,Gongabu,10,
+5,3,3.0,0,East,,14716.75,48,26000000,Kathmandu,Basundhara,12,Blacktopped
+10,0,3.0,0,East,,17454.75,48,31800000,Kathmandu,Sukedhara,14,Blacktopped
+4,4,2.5,0,North West,,14374.5,48,25500000,Lalitpur,Nakkhu,14,Gravelled
+4,4,3.0,4,North East,2066.0,6160.5,48,115000000,Kathmandu,Basbari,13,Paved
+6,6,4.0,2,South,2075.0,2053.5,48,42500000,Kathmandu,Basundhara,15,Blacktopped
+6,2,3.0,1,East,2064.0,3764.75,48,17500000,Kathmandu,Mulpani,20,Gravelled
+6,3,3.0,3,West,,1369.0,48,27500000,Kathmandu,Samakhusi,13,Blacktopped
+10,0,3.0,0,North,,1711.25,48,22000000,Kathmandu,Budhanilkantha,15,Blacktopped
+2,1,1.0,2,West,2075.0,10952.0,48,12800000,Kathmandu,Budhanilkantha,12,Gravelled
+3,1,1.0,0,North,,1026.75,48,11000000,Lalitpur,Imadol,14,Gravelled
+12,4,4.0,0,South East,,1369.0,48,22500000,Bhaktapur,Dadikot,20,
+5,4,3.0,4,South,,5133.75,48,52500000,Kathmandu,Sukedhara,13,Gravelled
+4,0,2.0,2,East,2077.0,2395.75,1,75000000,Kathmandu,Budhanilkantha,20,Paved
+5,6,2.0,3,North East,,2395.75,12,64000000,Kathmandu,Dhapasi,16,
+5,0,3.0,0,South,,1369.0,48,34000000,Kathmandu,Baluwatar,15,Blacktopped
+3,3,3.0,0,East,,11978.75,48,26000000,Kathmandu,Basundhara,12,
+4,5,3.0,0,South,,3422.5,48,70000000,Kathmandu,Banasthali,12,
+5,4,3.0,0,South,,1711.25,48,32000000,Kathmandu,Hattigauda,15,Gravelled
+10,0,3.0,0,South,,1369.0,48,23000000,Kathmandu,Swayambhu,12,Blacktopped
+5,3,2.5,0,South West,,1369.0,48,29000000,Kathmandu,Golfutar,15,Blacktopped
+6,5,3.0,3,South East,2074.0,2738.0,48,43000000,Kathmandu,Tokha,12,Gravelled
+7,5,3.0,8,East,2059.0,5133.75,48,70000000,Kathmandu,Maharajgunj,12,Blacktopped
+7,6,3.0,2,South,2075.0,1711.25,36,35000000,Kathmandu,Pasikot,12,Gravelled
+5,4,3.0,4,South West,,1369.0,48,37000000,Kathmandu,Chabahil,12,
+9,4,5.0,0,East,,1026.75,48,39000000,Kathmandu,Jorpati,36,
+8,0,3.0,0,North,,1026.75,48,15500000,Lalitpur,Harisiddhi,20,Gravelled
+2,1,1.0,1,South,,1026.75,48,10600000,Kathmandu,Kapan,10,
+2,4,3.0,3,South,,1711.25,48,28000000,Kathmandu,Basbari,13,Gravelled
+3,1,1.0,1,North East,2074.0,1026.75,48,12500000,Kathmandu,Kadaghari,13,Gravelled
+6,4,3.0,2,East,2076.0,1026.75,48,18000000,Kathmandu,Golfutar,13,Gravelled
+6,3,2.0,2,North,2072.0,1026.75,48,21000000,Kathmandu,Sukedhara,14,Blacktopped
+2,2,2.0,1,West,2057.0,8556.25,1,15000000,Kathmandu,Samakhusi,4,Paved
+11,0,3.0,0,East,,1711.25,48,33000000,Kathmandu,Sukedhara,15,
+10,0,4.0,0,East,,11978.75,48,19500000,Bhaktapur,Kausaltar,20,Soil Stabilized
+4,4,2.0,3,South,,3422.5,48,39000000,Kathmandu,Budhanilkantha,13,
+6,3,3.0,4,South East,,2053.5,48,34000000,Kathmandu,Budhanilkantha,13,
+6,3,3.0,0,North East,,2053.5,48,51500000,Kathmandu,Baluwatar,12,
+5,3,3.0,0,South,,11978.75,48,16500000,Lalitpur,Imadol,13,Blacktopped
+9,3,3.0,0,South West,,1026.75,48,16500000,Kathmandu,Jorpati,10,Gravelled
+5,5,2.5,2,South,2079.0,196793.75,12,49500000,Kathmandu,Budhanilkantha,15,Blacktopped
+11,0,2.0,0,West,,1711.25,48,22000000,Kathmandu,Kadaghari,15,Gravelled
+7,0,3.0,2,East,2076.0,15401.25,48,27500000,Kathmandu,Ekatabasti,13,Blacktopped
+2,1,2.0,0,West,,1026.75,48,6500000,Lalitpur,Imadol,5,Gravelled
+3,2,2.0,0,South West,,10609.75,48,19000000,Kathmandu,Sukedhara,24,Blacktopped
+4,3,2.0,0,South,,10609.75,48,23000000,Kathmandu,Basundhara,15,Gravelled
+6,6,3.0,2,South West,,2738.0,48,45000000,Kathmandu,Basundhara,15,Blacktopped
+2,1,1.0,4,East,2074.0,11978.75,48,14200000,Lalitpur,Imadol,20,Gravelled
+10,0,3.0,0,South,,14374.5,48,34500000,Kathmandu,Samakhusi,20,
+6,4,3.0,3,West,,25668.75,48,53000000,Kathmandu,Tokha,15,Blacktopped
+6,3,3.0,1,North East,2075.0,10952.0,48,19000000,Kathmandu,Kavresthali,0,
+5,2,3.0,0,South,,1711.25,48,39000000,Kathmandu,Basundhara,14,
+5,4,3.0,3,East,,1369.0,48,19200000,Kathmandu,Budhanilkantha,13,
+4,0,3.0,0,West,,15401.25,48,26500000,Kathmandu,Bafal,13,Gravelled
+7,4,3.0,0,South West,,11294.25,48,22500000,Lalitpur,Imadol,13,
+16,3,3.0,0,North,,2053.5,48,27000000,Bhaktapur,Lokanthali,13,Blacktopped
+5,5,3.0,4,East,,3080.25,48,45000000,Kathmandu,Sitapaila,12,
+6,4,3.0,2,East,,15401.25,48,25500000,Kathmandu,Budhanilkantha,13,Blacktopped
+4,3,3.0,0,East,,107124.25,48,22500000,Kathmandu,Mandikatar,12,
+7,4,3.0,0,East,,20877.25,48,38000000,Kathmandu,Kalanki,14,
+2,1,1.0,1,South West,2068.0,10952.0,48,10500000,Kathmandu,Makalbari,12,Gravelled
+4,3,3.0,0,East,,10609.75,48,17000000,Kathmandu,Dhapasi,13,Blacktopped
+7,6,5.0,4,South East,,10609.75,48,16000000,Kathmandu,Mulpani,14,Gravelled
+4,3,3.0,0,East,,1369.0,48,25000000,Kathmandu,Bhangal,13,
+2,2,1.0,1,North East,,1026.75,48,10000000,Lalitpur,Imadol,13,Blacktopped
+3,4,2.0,1,East,2078.0,1369.0,2,27000000,Kathmandu,Kirtipur,20,Blacktopped
+7,0,3.0,4,South,,1369.0,48,24000000,Kathmandu,Kapan,16,Soil Stabilized
+11,0,3.0,4,South,,1369.0,48,20400000,Kathmandu,Kapan,20,Blacktopped
+2,3,3.0,0,North,,1711.25,48,37500000,Kathmandu,Basundhara,14,Blacktopped
+5,4,3.0,0,North West,,1026.75,48,18000000,Lalitpur,Imadol,11,Gravelled
+5,4,2.5,0,South,,2053.5,48,40000000,Kathmandu,Sukedhara,15,Gravelled
+6,4,4.0,0,South,,1369.0,48,27500000,Kathmandu,Sukedhara,12,
+3,1,1.0,0,West,,8556.25,48,6500000,Kathmandu,Goldhunga,10,Soil Stabilized
+4,4,3.0,1,South,2069.0,14716.75,48,31500000,Lalitpur,Bhaisepati,12,Paved
+6,4,3.0,4,South East,,2053.5,48,40000000,Kathmandu,Chandol,14,
+4,5,2.5,1,South,2078.0,1369.0,2,42500000,Kathmandu,Budhanilkantha,16,Concrete
+13,0,4.5,0,South East,,4449.25,48,70000000,Kathmandu,Maharajgunj,14,Gravelled
+11,5,3.0,0,East,,1369.0,48,26500000,Kathmandu,Kapan,13,Blacktopped
+2,1,1.0,0,North,,1026.75,48,11500000,Kathmandu,Tokha,13,Gravelled
+6,4,3.0,3,West,,15401.25,48,25000000,Kathmandu,Budhanilkantha,13,Soil Stabilized
+2,2,1.0,1,South West,2076.0,10609.75,48,14000000,Kathmandu,Mandikatar,13,Gravelled
+4,0,3.0,3,East,2079.0,1026.75,1,29000000,Kathmandu,Kadaghari,12,Paved
+11,0,4.0,2,North,2058.0,1711.25,48,30000000,Kathmandu,Samakhusi,13,Blacktopped
+4,4,3.0,1,West,,1026.75,1,24000000,Lalitpur,Imadol,0,
+4,0,3.0,2,North East,2080.0,1369.0,1,35000000,Lalitpur,Bhaisepati,15,Gravelled
+10,10,4.0,2,East,2078.0,291597.0,5,120000000,Kathmandu,Dallu,13,Blacktopped

@@ -1,0 +1,590 @@
+Bedroom,Bathroom,Floor,Parking,Property Face,Build Year,Area Covered,Build Up Area,Posted Date,Price,District,Location,Road Distance,Type of Road
+8,4,4.0,1,West,2075.0,5 Aana,1700 Aana,2 years ago,29900000,Kathmandu,Goldhunga,10,Gravelled
+4,4,3.0,1,West,2078.0,0-4-0-0 Aana,2300 Sq. Feet,2 months ago,45000000,Kathmandu,Budhanilkantha,20,Blacktopped
+6,3,,2,South,,0-4-1-2 Aana,N/A Aana,2 years ago,18500000,Kathmandu,Tarkeshwor,10,Paved
+6,5,3.0,2,North,2078.0,0-4-0-0 Aana,2300 Sq. Feet,2 years ago,33500000,Kathmandu,Budhanilkantha,13,Gravelled
+0,0,,0,North,,9*18 Haat,N/A Sq. Feet,4 years ago,20000000,Surkhet,Surkhet Bazar,20,Blacktopped
+11,3,3.0,0,North,,4 Aana,N/A Aana,4 years ago,24000000,Kathmandu,Nepaltar,13,Blacktopped
+4,3,2.0,0,East,,0-4-0-2 Aana,N/A Aana,4 years ago,10000000,Dhading,Dhading,7,Gravelled
+10,6,3.0,4,East,,3.2 Aana,N/A Aana,4 years ago,24000000,Kathmandu,Pepsicola,13,
+0,0,3.0,0,North,,15 Dhur,N/A Dhur,4 years ago,15000000,Sunsari,Tarahara,15,Blacktopped
+4,5,2.5,2,South West,2080.0,0-8-1-0 Aana,3755 Sq. Feet,2 months ago,67700000,Kathmandu,Budhanilkantha,20,Blacktopped
+0,0,,0,South,,0-2-2-0 Aana,N/A Aana,4 years ago,15000000,Lalitpur,Imadol,13,Gravelled
+7,2,3.0,0,South,,0-3-3-2 Aana,N/A Aana,4 years ago,22500000,Lalitpur,Imadol,13,Gravelled
+11,5,3.5,2,South,2052.0,0-4-0-0 Aana,N/A Aana,3 years ago,28500000,Kathmandu,Baneshwor,20,Blacktopped
+0,0,3.0,0,South,,6 Aana,N/A Aana,4 years ago,37500000,Kathmandu,Hattigauda,20,
+7,5,2.5,3,South East,,0-10-2-0 Aana,2700 Sq. Feet,4 months ago,80000000,Kathmandu,Budhanilkantha,23,Concrete
+2,1,1.0,0,East,,0-3-3-3 Aana,N/A Aana,4 years ago,13000000,Lalitpur,Imadol,13,Gravelled
+7,3,2.5,1,North,2066.0,0-5-0-0 Aana,N/A Aana,4 years ago,39000000,Kathmandu,Baluwatar,10,Blacktopped
+2,1,1.0,3,East,,0-3-2-0 Aana,1198.033 Sq. Feet,2 days ago,17000000,Lalitpur,Tikathali,13,Blacktopped
+6,3,3.0,2,East,2069.0,0-3-0-0 Aana,N/A Aana,3 years ago,19000000,Kathmandu,Boudha,8,Blacktopped
+0,0,,0,West,,10 Dhur,N/A Dhur,4 years ago,10000000,Dharan,Dharan,15,Blacktopped
+6,3,2.5,1,West,2080.0,0-3-0-0 Aana,N/A Aana,1 day ago,26000000,Lalitpur,Tikathali,13,Concrete
+5,4,3.0,3,South,2078.0,0-3-2-0 Aana,2267 Aana,2 years ago,32500000,Kathmandu,Thulo Bharyang,13,Paved
+9,0,3.0,0,South East,,3.5 Aana,N/A Aana,4 years ago,19800000,Kathmandu,Basundhara,12,Gravelled
+8,3,,0,South,,0-3-0-0 Aana,N/A Aana,4 years ago,17000000,Lalitpur,Tikathali,13,Blacktopped
+4,4,3.0,2,North East,2019.0,5 Aana,N/A Aana,4 years ago,30500000,Kathmandu,Budhanilkantha,15,Blacktopped
+0,0,,0,East,,0-2-2-2 Aana,N/A Aana,4 years ago,8500000,Bhaktapur,Madhyapur Thimi,26,Soil Stabilized
+5,5,3.0,1,South East,2080.0,0-4-2-0 Aana,2400 Aana,11 months ago,38500000,Kathmandu,Budhanilkantha,13,Gravelled
+0,0,3.5,0,North,2065.0,0-6-2-0 Aana,4000 Aana,4 years ago,150000000,Kathmandu,Naxal,20,
+7,6,,0,South West,,14 Aana,N/A Aana,4 years ago,72500000,Kathmandu,Basundhara,20,
+5,5,3.0,1,North East,2080.0,0-4-0-2 Aana,2400 Sq. Feet,11 months ago,38500000,Kathmandu,Budhanilkantha,13,Gravelled
+4,3,3.0,0,South,,0-2-2-0 Aana,N/A Aana,4 years ago,15000000,Lalitpur,Imadol,13,Gravelled
+9,4,4.0,0,East,,6.3 Aana,N/A Aana,4 years ago,34500000,Kathmandu,Sukedhara,12,
+2,1,2.0,1,East,2073.0,0-3-1-0 Aana,730 Sq. Feet,2 years ago,18000000,Kathmandu,Gothatar,13,Blacktopped
+4,4,3.0,1,East,2078.0,0-3-0-0 Aana,N/A Aana,2 years ago,21500000,Lalitpur,Imadol,13,Gravelled
+5,5,2.5,1,North,2077.0,0-5-0-0 Aana,2759 Aana,3 years ago,46000000,Kathmandu,Budhanilkantha,14,Concrete
+4,5,2.5,2,South West,2080.0,0-8-2-0 Aana,3246 Sq. Feet,2 months ago,65600000,Kathmandu,Budhanilkantha,20,Blacktopped
+0,0,,0,North,,0-3-5-0 Aana,N/A Aana,4 years ago,19500000,Kathmandu,Basundhara,13,Blacktopped
+2,1,1.5,1,South,2076.0,0-2-3-2 Aana,N/A Aana,4 years ago,11500000,Lalitpur,Tikathali,13,Gravelled
+4,4,3.0,2,East,2078.0,0-3-2-0 Aana,N/A Aana,2 years ago,24500000,Lalitpur,Imadol,13,Gravelled
+3,4,,3,East,2072.0,0-4-3-0 Aana,2500 Aana,4 years ago,35000000,Bhaktapur,Madhyapur Thimi,30,Blacktopped
+4,4,2.5,2,South West,2074.0,0-5-2-2 Aana,2000 Sq. Feet,2 months ago,41500000,Kathmandu,Sitapaila,20,Blacktopped
+2,1,1.5,2,South West,2076.0,0-4-0-0 Aana,N/A Aana,4 years ago,15500000,Kathmandu,Kadaghari,20,Gravelled
+0,0,4.0,0,North,,7 Aana,N/A Aana,4 years ago,55000000,Kathmandu,Naxal,20,
+5,4,3.0,3,East,,0-3-0-0 Aana,1026.886 Sq. Feet,2 days ago,25500000,Lalitpur,Imadol,13,
+0,0,,0,North East,,52*52 Haat,N/A Haat,4 years ago,48000000,Chitwan,Bharatpur,20,
+6,6,2.5,1,West,2080.0,0-4-2-0 Aana,N/A Aana,5 days ago,38000000,Kathmandu,Budhanilkantha,13,Concrete
+9,4,3.0,3,South,,3 Aana,N/A Aana,4 years ago,22500000,Kathmandu,Samakhusi,13,Blacktopped
+0,0,,0,West,,5 Aana,N/A Aana,4 years ago,10000000,Lalitpur,Lamatar,12,Soil Stabilized
+15,6,3.0,10,North,2075.0,10 Dhur,10 Dhur,4 years ago,23000000,Chitwan,Bharatpur,20,Blacktopped
+4,4,3.0,1,West,2080.0,0-5-0-0 Aana,N/A Aana,2 days ago,40000000,Kathmandu,Budhanilkantha,30,Blacktopped
+8,0,,0,North,,0-3-0-1 Aana,N/A Aana,4 years ago,16500000,Kathmandu,Gothatar,13,Gravelled
+3,4,2.5,2,West,2074.0,0-3-2-3 Aana,1526.19 Aana,2 months ago,34100000,Kathmandu,Sitapaila,20,Blacktopped
+5,3,3.0,0,South,,4 Aana,N/A Aana,4 years ago,27500000,Kathmandu,Tokha,26,Gravelled
+4,3,,0,South,,3 Aana,N/A Aana,4 years ago,16500000,Kathmandu,Nag Pokhari,12,
+0,0,,0,South,,0-6-3-0 Aana,N/A Aana,4 years ago,36000000,Kathmandu,Gothatar,20,Gravelled
+4,2,2.0,2,South,,3.1 Aana,N/A Aana,4 years ago,21000000,Kathmandu,Swayambhu,18,
+0,0,,0,North,,0-3-3-0 Aana,N/A Aana,4 years ago,24000000,Kathmandu,Sukedhara,13,Soil Stabilized
+5,4,,0,North,,4 Aana,N/A Aana,4 years ago,26000000,Lalitpur,Bhaisepati,13,Blacktopped
+0,0,2.0,0,West,2075.0,1.5 Aana,N/A Aana,3 years ago,9500000,Kathmandu,Kirtipur,12,Gravelled
+4,2,2.0,1,West,,0-5-2-2 Aana,2046.64 Aana,3 years ago,25500000,Kathmandu,Syuchatar,0,
+0,0,,0,East,,0-3-1-0 Aana,N/A Aana,4 years ago,23500000,Kathmandu,Basundhara,15,Blacktopped
+11,0,,0,North,,5 Aana,N/A Aana,4 years ago,29800000,Kathmandu,Sukedhara,13,Blacktopped
+3,3,6.0,1,North East,,1380 Sq. Feet,N/A Sq. Feet,3 years ago,17500000,Kathmandu,Tokha,0,
+4,5,2.5,2,South West,2080.0,0-8-1-0 Aana,3755 Sq. Feet,2 months ago,67600000,Kathmandu,Budhanilkantha,20,Blacktopped
+7,5,3.0,3,South East,2074.0,6.5 Aana,6.5 Aana,4 years ago,37000000,Pokhara,Ranipauwa,20,Gravelled
+0,0,,0,South,,0-1-3-0 Aana,N/A Aana,4 years ago,25000000,Kathmandu,Kalimati,9,Blacktopped
+3,4,3.5,1,North,2078.0,0-6-1-3 Aana,2900 Sq. Feet,1 year ago,53600000,Kathmandu,Sitapaila,20,Paved
+0,0,3.0,0,South East,,3.5 Ropani,N/A Ropani,4 years ago,180000000,Kathmandu,Maharajgunj,13,
+5,4,2.5,2,East,2077.0,0-3-0-0 Aana,N/A Aana,3 years ago,19500000,Lalitpur,Imadol,12,Gravelled
+6,3,2.5,1,West,2080.0,0-4-2-0 Aana,N/A Sq. Feet,5 days ago,38500000,Kathmandu,Kapan,12,Concrete
+5,4,2.5,1,East,2080.0,0-3-2-0 Aana,N/A Aana,2 months ago,29500000,Kathmandu,Kapan,13,Concrete
+24,22,4.0,3,East,,43 Dhur,16000 Dhur,4 years ago,4500000,Parsa,Birgunj,30,Blacktopped
+5,3,3.0,1,East,,4 Aana,4 Aana,4 years ago,22500000,Kathmandu,Naikap,13,
+5,4,3.0,0,East,,0-7-2-0 Aana,N/A Aana,4 years ago,30000000,Bhaktapur,Kausaltar,15,Blacktopped
+11,0,3.0,0,South,,6 Aana,N/A Ropani,4 years ago,45000000,Kathmandu,Basundhara,14,
+0,3,3.0,4,East,2080.0,4.1 aana Aana,4.1 Aana,3 weeks ago,42500000,Kathmandu,Budhanilkantha,20,Blacktopped
+4,4,2.5,1,East,,0-4-1-0 Aana,2600 Aana,1 year ago,35000000,Kathmandu,Baniyatar,16,Blacktopped
+4,3,3.0,1,South,,0-4-0-0 Aana,N/A Aana,8 months ago,38000000,Kathmandu,Budhanilkantha,16,Blacktopped
+5,6,2.5,1,West,,0-3-2-0 Aana,2810 Sq. Feet,4 weeks ago,50000000,Kathmandu,Ravi Bhawan,32,Blacktopped
+7,5,2.0,3,East,,0-4-3-0 Aana,1625.902 Aana,1 week ago,46000000,Kathmandu,Budhanilkantha,14,Gravelled
+4,0,,2,South,2018.0,7-0-2 Aana,N/A Aana,4 years ago,45000000,Kathmandu,Basbari,20,Paved
+11,0,4.0,2,North,2001.0,5 ana Aana,4ana Aana,4 years ago,30000000,Kathmandu,Samakhusi,13,Blacktopped
+3,4,3.0,1,East,2015.0,0.3.3.3 Aana,18000 Aana,4 years ago,33000000,Kathmandu,Budhanilkantha,20,Blacktopped
+6,5,3.0,3,East,2076.0,0-4-0-0 Aana,N/A Aana,4 years ago,38700000,Kathmandu,Baneshwor,15,Blacktopped
+0,0,,0,South,,4 Aana,N/A Aana,4 years ago,10500000,Bhaktapur,Changunarayan,10,Blacktopped
+0,0,4.0,0,East,,9 Aana,N/A Aana,3 years ago,57500000,Kathmandu,Chabahil,0,
+4,4,3.0,3,East,,0-3-2-0 Aana,1198.033 Sq. Feet,1 week ago,41000000,Kathmandu,Soltimode,0,
+3,3,3.0,1,South,,0-2-2-0 Sq. Feet,N/A Sq. Feet,8 months ago,22500000,Kathmandu,Sitapaila,10,Gravelled
+6,5,4.0,0,South West,,0-6-1-0 Sq. Feet,N/A Sq. Feet,4 years ago,37500000,Lalitpur,Khumaltar,13,
+4,0,,0,South,,2.5 Aana,N/A Aana,4 years ago,8500000,Kathmandu,Tarkeshwor,10,
+0,0,,0,North,,9 Dhur,N/A Dhur,4 years ago,15000000,Sunsari,Itahari,20,Blacktopped
+0,0,3.0,0,West,,5 Aana,N/A Aana,4 years ago,52500000,Kathmandu,Baneshwor,0,
+3,3,2.5,2,West,2074.0,0-4-0-0 Aana,1744.78 Sq. Feet,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+6,5,3.0,2,North,2078.0,0-4-0-0 Aana,2400 Sq. Feet,2 years ago,37500000,Kathmandu,Budhanilkantha,13,Gravelled
+4,4,2.5,2,West,2074.0,0-3-2-0 Aana,1740.76 Aana,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+5,0,3.0,0,North East,,4.1.1 Aana,N/A Aana,4 years ago,28500000,Kathmandu,Golfutar,12,Gravelled
+5,5,3.0,2,South,,0-3-0-3 Aana,1091.147 Sq. Feet,2 days ago,31500000,Lalitpur,Imadol,13,Paved
+0,0,3.0,0,West,,4 Aana,N/A Aana,4 years ago,17500000,Kathmandu,Pasikot,16,
+6,4,3.0,1,South West,,0-5-0-0 Aana,N/A Aana,1 month ago,37000000,Kathmandu,Kapan,20,Blacktopped
+6,3,3.0,1,East,2076.0,0-3-2-0 Ropani,2100 Ropani,4 years ago,22500000,Lalitpur,Tikathali,12,Blacktopped
+0,0,,0,East,,0-3-0-0 Aana,N/A Aana,4 years ago,18200000,Kathmandu,Kapan,13,Blacktopped
+5,3,2.5,1,West,2077.0,0-3-0-0 Aana,N/A Aana,3 years ago,20000000,Lalitpur,Imadol,13,Gravelled
+0,0,,0,West,,8 Aana,N/A Aana,4 years ago,25000000,Lalitpur,Lamatar,14,Gravelled
+11,6,3.0,3,North,2019.0,10 Dhur,10 Dhur,4 years ago,23000000,Chitwan,Bharatpur,20,Blacktopped
+4,3,2.5,1,South,2076.0,0-3-0-0 Aana,650 Aana,4 years ago,19000000,Lalitpur,Imadol,13,Gravelled
+5,3,2.5,1,East,2076.0,0-3-0-0 Aana,2000 Aana,4 years ago,16000000,Kathmandu,Tinthana,13,Blacktopped
+4,4,3.0,2,West,2014.0,3.2 Aana,N/A Aana,4 years ago,15000000,Kathmandu,Kapan,0,
+0,0,3.0,0,South,,8 Aana,N/A Aana,4 years ago,51000000,Kathmandu,Mandikatar,15,Blacktopped
+7,3,2.5,2,West,2076.0,0-3-2-2 Aana,3600 Aana,4 years ago,35000000,Kathmandu,Sankhamul,12,Paved
+5,4,2.5,0,East,2080.0,0-4-3-0 Aana,N/A Aana,2 weeks ago,55000000,Kathmandu,Chhauni,10,Gravelled
+3,9,3.0,0,North East,2076.0,0-2-3-0 Aana,N/A Aana,4 years ago,13500000,Lalitpur,Imadol,10,Soil Stabilized
+9,7,5.0,0,North,,0-3-1-1 Aana,N/A Aana,2 years ago,35000000,Kathmandu,Baghbazaar,10,Blacktopped
+6,4,3.5,3,South East,,3.2 Aana,N/A Aana,4 years ago,36000000,Kathmandu,Kadaghari,13,
+7,3,3.0,0,East,,3 Aana,2200 Aana,4 years ago,9000000,Kavre,Panauti,24,
+5,2,3.0,0,West,,3.5 Aana,N/A Aana,4 years ago,22700000,Kathmandu,Thulo Bharyang,12,Gravelled
+0,0,2.0,0,North,,5 Aana,N/A Aana,4 years ago,9500000,Dhading,Dhading,15,Soil Stabilized
+6,5,4.0,3,North East,2079.0,0-5-0-0 Aana,2800 Sq. Feet,1 year ago,43500000,Kathmandu,Budhanilkantha,13,Blacktopped
+4,4,3.0,2,East,2078.0,0-3-2-0 Aana,1800 Aana,2 years ago,22500000,Lalitpur,Imadol,13,Soil Stabilized
+6,5,3.0,3,West,2019.0,0-8-3-3-1 Aana,N/A Aana,3 years ago,57500000,Lalitpur,Nakhipot,20,Blacktopped
+4,4,2.5,1,East,,0-4-0-2 Aana,N/A Aana,1 week ago,39000000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,4,2.5,5,South,,0-15-0-0 Aana,N/A Aana,9 months ago,115000000,Kathmandu,Sanobharyang,20,Blacktopped
+0,0,2.0,0,South East,,4.5 Aana,N/A Aana,4 years ago,27000000,Pokhara,Pokhara,20,
+0,0,2.0,0,East,,3 Aana,N/A Aana,4 years ago,12500000,Lalitpur,Harisiddhi,13,Gravelled
+6,3,3.0,3,South,,4 Aana,N/A Aana,4 years ago,16500000,Kathmandu,Tarkeshwor,12,
+8,0,,0,West,,0-3-2-0 Aana,N/A Aana,4 years ago,18500000,Kathmandu,Naikap,12,
+5,3,2.5,1,West,2077.0,0-3-1-0 Aana,N/A Aana,3 years ago,25000000,Lalitpur,Imadol,20,Gravelled
+5,3,3.0,2,North,2066.0,0-3-1-2 Aana,1842.62 Aana,2 years ago,29500000,Kathmandu,Koteshwor,26,Blacktopped
+0,0,3.0,0,West,,2.5 Aana,67.30 Aana,3 years ago,11000000,Kathmandu,Kapan,12,
+12,0,4.0,4,East,,7 Aana,N/A Aana,4 years ago,40000000,Kathmandu,Dhumbarahi,13,
+4,5,2.5,2,South East,2080.0,0-8-1-1 Aana,3246 Sq. Feet,2 months ago,64300000,Kathmandu,Budhanilkantha,20,Blacktopped
+8,3,4.0,1,South West,,4 Aana,N/A Aana,4 years ago,31000000,Kathmandu,Chundevi,14,Gravelled
+6,3,3.0,2,East,2019.0,5 Aana,4 Aana,4 years ago,27800000,Kathmandu,Mandikatar,13,Gravelled
+6,3,2.5,2,South,2069.0,0-5-2-0 Aana,900 Aana,2 years ago,32500000,Kathmandu,Basundhara,15,Gravelled
+5,6,2.0,3,West,,0-5-0-0 Aana,1711.476 Sq. Feet,1 week ago,43000000,Kathmandu,Budhanilkantha,13,Gravelled
+2,1,1.0,1,West,2076.0,0-3-0-0 Aana,N/A Aana,4 years ago,12500000,Lalitpur,Imadol,20,Gravelled
+10,0,3.0,3,West,,6 Aana,N/A Aana,4 years ago,29800000,Kathmandu,Budhanilkantha,13,
+10,6,5.0,4,West,,4.2 Aana,N/A Aana,4 years ago,30000000,Kathmandu,Gongabu,10,
+5,3,3.0,0,East,,4.3 Aana,N/A Aana,4 years ago,26000000,Kathmandu,Basundhara,12,Blacktopped
+0,0,3.0,3,East,,9 Aana,N/A Aana,4 years ago,60000000,Kathmandu,Tokha,13,
+10,3,3.0,2,South,2076.0,0-4-1-0 Aana,N/A Aana,4 years ago,27500000,Kathmandu,Budhanilkantha,13,Blacktopped
+3,4,,1,North,2018.0,3.5 Aana,3 Aana,4 years ago,27000000,Kathmandu,Tahachal,0,
+8,0,3.0,0,West,,0-2-2-0 Aana,N/A Aana,4 years ago,14000000,Kathmandu,Gothatar,13,Gravelled
+6,3,3.5,1,South,2077.0,0-3-0-1 Aana,N/A Aana,3 years ago,19000000,Kathmandu,Kadaghari,13,Gravelled
+4,5,2.5,1,South West,2076.0,0-4-0-0 Aana,N/A Aana,4 years ago,21000000,Lalitpur,Imadol,20,Gravelled
+10,0,3.0,0,East,,5.1 Aana,N/A Aana,4 years ago,31800000,Kathmandu,Sukedhara,14,Blacktopped
+5,4,2.0,3,East,2078.0,0-8-1-0 Aana,0 Aana,1 month ago,70000000,Kathmandu,Baneshwor,13,Paved
+0,0,,0,East,,0-3-2-0 Aana,N/A Aana,4 years ago,22000000,Bhaktapur,Radhe Radhe,20,Blacktopped
+0,0,,0,North,,6 Dhur,N/A Dhur,4 years ago,5000000,Chitwan,Bharatpur,20,Gravelled
+4,4,2.5,0,North West,,4.2 Aana,N/A Aana,4 years ago,25500000,Lalitpur,Nakkhu,14,Gravelled
+4,5,2.5,2,South West,2080.0,0-7-0-2 Aana,58300000 Sq. Feet,2 months ago,58300000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,4,3.0,2,South East,2076.0,0-5-1-0 Aana,N/A Aana,4 years ago,32000000,Kathmandu,Budhanilkantha,13,Blacktopped
+6,0,,1,North East,2018.0,4 Aana,2250 Aana,4 years ago,25000000,Kathmandu,Banasthali,16,Gravelled
+4,4,3.0,4,North East,2009.0,18 Aana,12 Aana,4 years ago,115000000,Kathmandu,Basbari,13,Paved
+0,0,,0,East,,9 Aana,N/A Aana,4 years ago,49500000,Lalitpur,Hattiban,16,Blacktopped
+7,4,2.0,1,South East,2076.0,0-7-0-0 Aana,1000 Aana,4 years ago,50000000,Kathmandu,Mid Baneshwor,10,Concrete
+6,4,2.5,1,West,,0-3-1-2 Aana,N/A Sq. Feet,2 weeks ago,25000000,Kathmandu,Sitapaila,13,Gravelled
+4,4,2.5,1,East,,0-4-0-2 Aana,N/A Aana,1 week ago,39000000,Kathmandu,Budhanilkantha,20,Blacktopped
+0,0,3.0,0,East,,3.5 Aana,N/A Aana,4 years ago,26500000,Kathmandu,Basundhara,12,
+9,6,5.5,31,North,2075.0,0-14-2-0 Aana,24000 Aana,4 years ago,155000000,Kathmandu,Thulo Bharyang,20,Blacktopped
+0,0,,0,South,,6 Aana,N/A Aana,4 years ago,32000000,Kathmandu,Baneshwor,12,Blacktopped
+6,6,4.0,2,South,2075.0,6 Aana,N/A Aana,4 years ago,42500000,Kathmandu,Basundhara,15,Blacktopped
+5,3,2.5,1,East,2076.0,0-3-1-0 Aana,1900 Aana,4 years ago,19500000,Lalitpur,Imadol,20,Gravelled
+0,0,,0,South,,4 Aana,N/A Aana,4 years ago,20000000,Kathmandu,Jorpati,15,
+5,5,4.0,0,East,2013.0,0-3-2-1 Aana,N/A Aana,3 years ago,17000000,Lalitpur,Lubhu,13,Gravelled
+4,3,2.5,1,East,,0-4-0-0 Aana,N/A Aana,10 months ago,39500000,Kathmandu,Budhanilkantha,16,Gravelled
+4,4,2.5,1,North East,2077.0,0-3-2-0 Sq. Feet,N/A Sq. Feet,3 years ago,21400000,Lalitpur,Imadol,13,Gravelled
+2,1,1.5,1,South,2076.0,0-3-1-0 Aana,N/A Aana,4 years ago,12500000,Lalitpur,Imadol,13,Gravelled
+6,4,3.0,1,South,2019.0,0-4-2-3 Aana,2548 Aana,4 years ago,25000000,Kathmandu,Kirtipur,12,Gravelled
+18,0,4.0,0,North,,0-4-1-0 Aana,N/A Aana,4 years ago,29000000,Kathmandu,Kapan,32,Gravelled
+5,3,3.0,0,West,,0-3-1-2 Aana,N/A Aana,4 years ago,27000000,Lalitpur,Ekantakuna,22,Blacktopped
+6,3,,1,West,,0-3-2-0 Aana,N/A Aana,8 months ago,26000000,Kathmandu,Ramkot,16,Concrete
+0,0,2.0,0,East,,21 Dhur,N/A Dhur,4 years ago,19000000,Jhapa,Damak,15,Gravelled
+5,3,2.5,2,East,2076.0,0-3-2-0 Aana,2200 Aana,4 years ago,22000000,Lalitpur,Imadol,20,Gravelled
+0,2,,0,East,,2-2 Aana,N/A Aana,4 years ago,13500000,Kathmandu,Bafal,12,
+6,3,2.5,1,South East,2076.0,0-3-0-0 Aana,N/A Aana,4 years ago,16500000,Kathmandu,Goldhunga,10,Gravelled
+0,0,3.0,0,South,,4 Aana,N/A Aana,4 years ago,24000000,Kathmandu,Jorpati,15,Blacktopped
+5,6,3.0,5,North,2074.0,0-5-3-0 Aana,N/A Aana,4 years ago,39500000,Kathmandu,Banasthali,20,Blacktopped
+6,4,3.0,8,West,,0-6-2-0 Aana,N/A Aana,4 years ago,35000000,Kathmandu,Dhapasi,32,Blacktopped
+6,6,3.0,1,West,2080.0,0-3-3-2 Aana,N/A Aana,2 months ago,37500000,Kathmandu,Thulo Bharyang,11,Concrete
+2,1,1.5,1,West,2077.0,0-3-0-0 Aana,N/A Aana,3 years ago,13500000,Lalitpur,Imadol,13,Gravelled
+6,2,3.0,1,East,2007.0,11 Aana,4 Aana,4 years ago,17500000,Kathmandu,Mulpani,20,Gravelled
+6,3,3.0,2,North,2076.0,0-4-0-0 Aana,N/A Aana,2 years ago,30000000,Kathmandu,Koteshwor,15,Concrete
+0,0,3.0,2,North,2016.0,0-5-1-0 Aana,2300 Aana,4 years ago,33000000,Lalitpur,Nakkhu,13,Soil Stabilized
+0,0,,0,East,,0-3-3-0 Aana,N/A Aana,2 years ago,15700000,Kathmandu,Mandikatar,13,
+6,3,3.0,3,West,,4 Aana,N/A Aana,4 years ago,27500000,Kathmandu,Samakhusi,13,Blacktopped
+2,1,1.5,1,East,2076.0,0-3-0-0 Aana,N/A Aana,4 years ago,11000000,Lalitpur,Tikathali,13,Gravelled
+4,3,2.5,2,North West,2076.0,0-3-2-0 Aana,1195 Aana,4 years ago,19000000,Lalitpur,Imadol,13,Gravelled
+4,3,,0,North West,,5.5 Aana,N/A Aana,4 years ago,32500000,Kathmandu,Basundhara,16,Gravelled
+5,3,2.5,1,West,2076.0,0-3-2-0 Aana,2100 Aana,4 years ago,22000000,Lalitpur,Imadol,20,Gravelled
+6,3,3.0,1,South West,2076.0,0-3-0-1 Aana,N/A Aana,3 years ago,18500000,Kathmandu,Kageshwari-Manohara,13,Gravelled
+10,0,3.0,0,North,,5 Aana,N/A Aana,4 years ago,22000000,Kathmandu,Budhanilkantha,15,Blacktopped
+7,3,3.0,0,South East,,0-4-2-0 Aana,N/A Aana,4 years ago,24500000,Kathmandu,Tokha,10,Gravelled
+11,7,3.5,1,South,,0-12-2-0 Aana,N/A Aana,5 days ago,110000000,Kathmandu,Chabahil,12,Concrete
+0,0,,0,North,,10 Sq. Feet,N/A Sq. Feet,4 years ago,25000000,Kathmandu,Goldhunga,15,
+10,3,3.0,1,South,,0-3-3-0 Aana,N/A Aana,4 years ago,22000000,Lalitpur,Imadol,13,Blacktopped
+5,3,2.5,1,South West,2077.0,0-3-2-0 Aana,N/A Aana,3 years ago,25000000,Lalitpur,Imadol,13,Gravelled
+0,0,,0,North,,0-3-2-0 Aana,N/A Aana,4 years ago,13000000,Kathmandu,Goldhunga,13,Gravelled
+0,0,,0,South,,0-3-0-0 Aana,N/A Aana,4 years ago,7500000,Bhaktapur,Duwakot,13,Gravelled
+0,0,3.5,0,North,2070.0,0-4-2-0 Aana,N/A Aana,4 years ago,25500000,Kathmandu,Bafal,13,Blacktopped
+0,0,4.0,0,South,,5.1 Aana,N/A Aana,4 years ago,60000000,Kathmandu,Balkhu,0,
+6,5,2.5,1,South East,2080.0,0-6-0-0 Aana,N/A Aana,2 months ago,49500000,Kathmandu,Budhanilkantha,13,Concrete
+42,0,,0,South,,7 Aana,N/A Aana,4 years ago,142500000,Kathmandu,Budhanilkantha,22,Blacktopped
+3,1,1.0,0,North,,6 Dhur,N/A Dhur,4 years ago,6400000,Sunsari,Itahari,15,Soil Stabilized
+2,1,1.0,2,West,2075.0,3.2 Aana,3.1 Aana,4 years ago,12800000,Kathmandu,Budhanilkantha,12,Gravelled
+4,3,2.5,1,East,2076.0,0-3-0-0 Aana,N/A Aana,4 years ago,18500000,Lalitpur,Imadol,13,Gravelled
+6,5,2.5,1,West,2080.0,0-3-1-0 Aana,N/A Sq. Feet,2 months ago,31500000,Kathmandu,Kapan,13,Concrete
+3,1,1.0,0,North,,3 Aana,N/A Aana,4 years ago,11000000,Lalitpur,Imadol,14,Gravelled
+6,7,5.0,4,North East,2079.0,0-7-2-0 Aana,N/A Aana,8 months ago,70000000,Kathmandu,Sitapaila,13,Gravelled
+12,4,4.0,0,South East,,4 Aana,2610 Aana,4 years ago,22500000,Bhaktapur,Dadikot,20,
+4,0,3.0,3,East,2022.0,3 aana Aana,0 Aana,1 week ago,29000000,Kathmandu,Kadaghari,12,Paved
+5,4,3.0,4,South,,15 Aana,N/A Aana,4 years ago,52500000,Kathmandu,Sukedhara,13,Gravelled
+0,0,,0,North,,0-4-2-0 Aana,N/A Aana,4 years ago,37500000,Kathmandu,Tinkune,22,Blacktopped
+6,3,,2,West,,0-3-0-1 Aana,N/A Aana,8 months ago,30000000,Kathmandu,Budhanilkantha,16,Soil Stabilized
+6,5,4.0,2,South,2077.0,0-4-2-0 Aana,N/A Aana,8 months ago,27500000,Kathmandu,Sitapaila,12,Concrete
+4,4,2.5,2,West,2074.0,0-3-2-1 Aana,2009.63 Sq. Feet,2 months ago,37400000,Kathmandu,Sitapaila,20,Blacktopped
+0,0,2.5,0,North,,4 Aana,N/A Aana,4 years ago,42000000,Kathmandu,Sukedhara,20,Blacktopped
+0,0,,0,South,,0-4-5-0 Aana,N/A Aana,4 years ago,26000000,Lalitpur,Dhapakhel,12,Blacktopped
+8,0,3.0,0,South,,0-3-0-2 Aana,N/A Aana,4 years ago,19000000,Kathmandu,Banasthali,10,Blacktopped
+4,0,2.0,2,East,2077.0,7 Aana,0 Aana,1 month ago,75000000,Kathmandu,Budhanilkantha,20,Paved
+5,2,4.0,1,East,2076.0,0-4-0-0 Sq. Feet,0-4-0-0 Sq. Feet,4 years ago,20000000,Lalitpur,Tikathali,15,Gravelled
+2,1,1.5,1,West,2077.0,0-2-3-0 Aana,700 Aana,3 years ago,11300000,Lalitpur,Imadol,13,Gravelled
+5,6,2.0,3,North East,,7 Aana,N/A Aana,1 year ago,64000000,Kathmandu,Dhapasi,16,
+5,0,3.0,0,South,,4 Aana,N/A Aana,4 years ago,34000000,Kathmandu,Baluwatar,15,Blacktopped
+3,3,3.0,0,East,,3.5 Aana,N/A Sq. Feet,4 years ago,26000000,Kathmandu,Basundhara,12,
+5,5,,1,East,,0-4-2-0 Aana,N/A Aana,8 months ago,38000000,Kathmandu,Budhanilkantha,16,Blacktopped
+4,3,3.0,0,South East,,0-3-0-3 Aana,N/A Aana,4 years ago,19000000,Lalitpur,Imadol,10,Gravelled
+0,0,,0,West,,0-3-5-0 Aana,N/A Aana,4 years ago,12000000,Kathmandu,Balaju,26,Blacktopped
+4,3,2.5,1,South East,,0-6-0-0 Aana,N/A Aana,3 months ago,55000000,Kathmandu,Boudha,20,Blacktopped
+0,0,3.0,0,South,,4 Aana,N/A Aana,4 years ago,20500000,Lalitpur,Nakhipot,10,Gravelled
+0,0,,0,North,,2 Kattha,N/A Kattha,4 years ago,50000000,Chitwan,Bharatpur,20,Blacktopped
+4,5,3.0,0,South,,10 Aana,3700 Aana,4 years ago,70000000,Kathmandu,Banasthali,12,
+5,6,2.5,0,East,,0-4-2-0 Aana,N/A Sq. Feet,2 weeks ago,46000000,Kathmandu,Sanobharyang,16,Concrete
+0,0,,0,South,,0-14-0-0 Aana,N/A Aana,2 years ago,105000000,Kathmandu,Kalanki,22,Blacktopped
+6,4,2.5,1,West,2077.0,0-3-0-3 Aana,N/A Aana,1 week ago,27500000,Kathmandu,Swayambhu,12,Concrete
+0,0,,0,South,,0-10-3-2 Aana,N/A Aana,4 years ago,80000000,Kathmandu,Gaushala,12,Blacktopped
+5,4,3.0,0,South,,5 Aana,N/A Aana,4 years ago,32000000,Kathmandu,Hattigauda,15,Gravelled
+10,0,3.0,0,South,,4 Aana,N/A Aana,4 years ago,23000000,Kathmandu,Swayambhu,12,Blacktopped
+6,5,2.5,1,South,2080.0,0-4-0-2 Aana,N/A Aana,2 months ago,37000000,Kathmandu,Kapan,13,Concrete
+3,1,1.0,0,North,,0-2-2-0 Aana,N/A Aana,4 years ago,7500000,Kathmandu,Kadaghari,4,Soil Stabilized
+5,3,2.5,1,North East,,0-6-0-0 Aana,N/A Aana,8 months ago,60000000,Kathmandu,Budhanilkantha,14,Blacktopped
+0,3,2.0,1,North East,2072.0,3 aana 3 paisa Aana,0 Aana,1 month ago,29000000,Kathmandu,Kapan,13,Gravelled
+5,3,2.5,0,South West,,4 Aana,N/A Aana,4 years ago,29000000,Kathmandu,Golfutar,15,Blacktopped
+0,4,2.0,2,North,2080.0,5 Aana,5 Aana,3 weeks ago,47500000,Kathmandu,Budhanilkantha,0,Blacktopped
+6,4,2.5,2,East,2076.0,0-3-2-0 Aana,2200 Sq. Feet,3 years ago,24500000,Kathmandu,Budhanilkantha,13,Gravelled
+6,4,2.5,2,West,2077.0,0-3-1-0 Aana,2000 Aana,3 years ago,21000000,Kathmandu,Kadaghari,13,Blacktopped
+0,0,4.0,0,West,,3 Aana,N/A Aana,4 years ago,25000000,Kathmandu,Hadigaun,13,
+0,0,1.0,0,East,,33 Aana,N/A Aana,4 years ago,11500000,Lalitpur,Harisiddhi,13,
+6,5,3.0,3,South East,2074.0,8 Aana,5 Aana,4 years ago,43000000,Kathmandu,Tokha,12,Gravelled
+7,5,3.0,8,East,2059.0,15 Aana,6 Aana,4 years ago,70000000,Kathmandu,Maharajgunj,12,Blacktopped
+5,3,2.5,1,South,2076.0,0-3-1-0 Aana,N/A Aana,4 years ago,21500000,Lalitpur,Imadol,20,Blacktopped
+0,0,3.0,0,West,,4.1 Aana,N/A Aana,4 years ago,26000000,Kathmandu,Tokha,15,Blacktopped
+4,4,2.5,2,East,2074.0,0-4-0-1 Aana,2009.63 Aana,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+0,0,3.0,0,West,,0-3-2-1 Aana,N/A Aana,4 years ago,21000000,Kathmandu,Chandragiri,15,
+5,4,2.5,1,East,2076.0,0-3-2-0 Aana,N/A Aana,3 years ago,28700000,Lalitpur,Imadol,13,Blacktopped
+0,0,3.0,0,West,,0-4-0-0 Aana,N/A Aana,2 years ago,28500000,Kathmandu,Raniban,18,
+0,0,,0,South East,,2 Aana,N/A Aana,4 years ago,15000000,Kathmandu,Chandol,20,
+7,6,3.0,2,South,2075.0,5 Aana,2531 Sq. Feet,3 years ago,35000000,Kathmandu,Pasikot,12,Gravelled
+6,4,2.5,1,East,2080.0,0-4-0-0 Aana,N/A Aana,2 weeks ago,32500000,Kathmandu,Sitapaila,14,Concrete
+6,6,3.0,3,South,,0-4-0-2 Aana,1412.022 Sq. Feet,2 days ago,41000000,Lalitpur,Imadol,13,Paved
+0,0,3.0,0,West,,0-15-2-2 Aana,N/A Aana,4 years ago,88000000,Kathmandu,Sukedhara,20,
+4,0,2.0,2,East,,0-3-0-0 Aana,N/A Aana,2 years ago,26000000,Kathmandu,Halchowk,13,Paved
+0,0,3.0,0,East,,8.3 Aana,N/A Aana,4 years ago,66000000,Kathmandu,Budhanilkantha,40,Blacktopped
+0,0,2.0,0,South,,0-6-2-0 Aana,950 Aana,3 years ago,35000000,Lalitpur,Thasikhel,13,Blacktopped
+4,3,2.5,1,South,2076.0,0-3-1-2 Aana,N/A Aana,4 years ago,17000000,Lalitpur,Imadol,13,Gravelled
+0,0,3.0,1,East,,2.5 Aana,N/A Aana,4 years ago,14000000,Kathmandu,Jorpati,10,
+6,4,2.5,1,South East,2065.0,0-4-0-0 Aana,2394 Aana,4 years ago,32500000,Kathmandu,Sukedhara,12,Concrete
+5,4,3.0,2,West,2078.0,0-4-1-0 Aana,2400 Sq. Feet,1 year ago,42500000,Kathmandu,Budhanilkantha,13,Gravelled
+0,0,,0,West,,3 Aana,N/A Aana,4 years ago,14500000,Lalitpur,Sano Gaun,13,Gravelled
+5,4,3.0,4,South West,,4 Aana,N/A Aana,4 years ago,37000000,Kathmandu,Chabahil,12,
+9,4,5.0,0,East,,3 Aana,N/A Aana,4 years ago,39000000,Kathmandu,Jorpati,36,
+0,0,,0,West,,0-3-3-0 Aana,N/A Aana,4 years ago,29000000,Kathmandu,Kalopul,10,Blacktopped
+8,0,3.0,0,North,,3 Aana,N/A Aana,4 years ago,15500000,Lalitpur,Harisiddhi,20,Gravelled
+11,0,,0,West,,0-3-5-0 Aana,N/A Aana,4 years ago,22000000,Kathmandu,Bhangal,13,Gravelled
+13,0,,0,East,,16*34 Haat,N/A Haat,4 years ago,26000000,Pokhara,Pokhara,20,Blacktopped
+6,4,2.5,1,East,2080.0,0-4-0-0 Aana,N/A Aana,1 week ago,40000000,Kathmandu,Budhanilkantha,20,Concrete
+6,3,1.5,10,East,,13-0-0-0 Ropani,N/A Ropani,2 weeks ago,260000000,Kathmandu,Tarkeshwor,15,Gravelled
+3,4,2.0,2,West,2077.0,0-11-0-0 Aana,N/A Aana,3 years ago,110000000,Kathmandu,Budhanilkantha,14,Concrete
+0,0,,0,West,,0-5-2-0 Aana,N/A Aana,4 years ago,29800000,Kathmandu,Basundhara,15,Blacktopped
+2,1,1.0,1,South,,3 Aana,3 Aana,4 years ago,10600000,Kathmandu,Kapan,10,
+2,4,3.0,3,South,,5 Aana,N/A Aana,4 years ago,28000000,Kathmandu,Basbari,13,Gravelled
+2,1,1.5,1,West,2076.0,0-3-0-0 Aana,N/A Aana,4 years ago,12000000,Lalitpur,Imadol,13,Gravelled
+0,0,,0,North,,0-3-5-0 Aana,N/A Aana,4 years ago,35000000,Kathmandu,Mid Baneshwor,13,Blacktopped
+4,4,3.0,1,East,2078.0,0-3-1-0 Aana,1700 Aana,2 years ago,21000000,Lalitpur,Imadol,13,Soil Stabilized
+4,4,2.5,2,East,2074.0,0-3-3-2 Aana,2009.63 Aana,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+6,3,2.5,1,South,2076.0,0-3-2-0 Aana,N/A Aana,4 years ago,22500000,Lalitpur,Imadol,20,Blacktopped
+3,1,1.0,1,North East,2074.0,3 Aana,3 Aana,4 years ago,12500000,Kathmandu,Kadaghari,13,Gravelled
+5,4,3.0,3,North,,0-3-0-1 Aana,N/A Aana,4 years ago,20000000,Lalitpur,Satdobato,16,
+6,4,3.0,2,East,2019.0,3 Aana,2 Aana,4 years ago,18000000,Kathmandu,Golfutar,13,Gravelled
+5,4,2.5,2,West,2077.0,0-3-0-0 Aana,N/A Aana,3 years ago,21000000,Lalitpur,Imadol,12,Gravelled
+4,5,2.5,1,East,2078.0,0-4-1-0 Aana,2400 Sq. Feet,2 months ago,46500000,Kathmandu,Budhanilkantha,16,Concrete
+0,0,2.0,0,South East,2076.0,0-3-0-1 Aana,N/A Aana,4 years ago,16500000,Kathmandu,Syuchatar,14,Blacktopped
+0,0,3.0,0,North East,2076.0,0-5-0-3 Aana,N/A Aana,4 years ago,29000000,Kathmandu,Budhanilkantha,20,Gravelled
+10,4,,0,East,,2.5 Aana,0 Aana,1 week ago,21000000,Kathmandu,Kadaghari,12,
+7,6,4.0,2,South East,,0-8-0-0 Aana,3300 Sq. Feet,1 year ago,50000000,Kathmandu,Gurujudhara,13,Concrete
+4,1,2.0,3,South,,10 Dhur,N/A Aana,4 years ago,20000000,Jhapa,Damak,20,Blacktopped
+3,3,3.0,3,South,,10 Dhur,N/A Dhur,4 years ago,13500000,Chitwan,Bharatpur,20,Blacktopped
+0,0,4.0,0,North West,,7 Aana,N/A Aana,4 years ago,35000000,Pokhara,Fulbari,15,
+4,3,2.5,1,North East,,0-5-2-1 Aana,2350 Sq. Feet,5 months ago,54000000,Kathmandu,Budhanilkantha,20,Blacktopped
+6,3,2.0,2,North,2072.0,3 Aana,90.00 Aana,4 years ago,21000000,Kathmandu,Sukedhara,14,Blacktopped
+2,1,1.0,0,North East,,0-3-0-1 Aana,N/A Aana,4 years ago,12000000,Lalitpur,Imadol,12,Soil Stabilized
+6,7,,1,North East,2080.0,0-3-2-0 Aana,N/A Aana,2 months ago,44000000,Kathmandu,Thulo Bharyang,13,Concrete
+18,6,,6,South,,6 Aana,N/A Aana,4 years ago,47000000,Kathmandu,Sukedhara,13,Blacktopped
+4,5,2.5,1,East,2079.0,0-3-1-1 Aana,N/A Sq. Feet,1 month ago,22000000,Kathmandu,Sitapaila,20,Gravelled
+6,5,2.5,1,South,2080.0,0-4-1-2 Aana,N/A Aana,2 months ago,35000000,Kathmandu,Kapan,13,Concrete
+4,5,2.0,3,East,2078.0,0-5-0-0 Aana,N/A Aana,2 years ago,26000000,Kathmandu,Hattigauda,22,Gravelled
+0,0,,0,East,,0-8-0-0 Aana,N/A Aana,4 years ago,38000000,Kathmandu,Balaju,13,Blacktopped
+6,0,3.0,4,North,2042.0,0-6-2-0 Aana,N/A Aana,4 years ago,42500000,Kathmandu,Shantinagar,10,Blacktopped
+6,0,,0,North,,4 Aana,N/A Aana,4 years ago,14000000,Kathmandu,Tokha,12,Soil Stabilized
+10,3,3.0,0,South,,0-3-1-0 Aana,N/A Aana,4 years ago,22000000,Kathmandu,Boudha,20,
+5,4,3.0,1,South,2080.0,0-3-0-0 Aana,N/A Aana,2 days ago,26500000,Lalitpur,Imadol,13,Gravelled
+2,2,2.0,1,West,2000.0,2.5 Aana,1900 Sq. Meter,1 month ago,15000000,Kathmandu,Samakhusi,4,Paved
+7,5,3.0,2,East,2064.0,0-6-0-0 Aana,2800 Aana,1 year ago,55100000,Kathmandu,Sinamangal,13,Blacktopped
+11,0,3.0,0,East,,5 Aana,N/A Aana,4 years ago,33000000,Kathmandu,Sukedhara,15,
+10,0,4.0,0,East,,3.5 Aana,N/A Aana,4 years ago,19500000,Bhaktapur,Kausaltar,20,Soil Stabilized
+4,4,2.5,2,South,2074.0,0-3-2-0 Aana,1861.67 Aana,2 months ago,35750000,Kathmandu,Sitapaila,20,Blacktopped
+5,4,2.5,1,East,2077.0,0-4-0-2 Aana,2500 Aana,3 years ago,23500000,Lalitpur,Imadol,13,Gravelled
+4,3,2.5,1,North East,2076.0,0-3-2-0 Aana,2148 Aana,3 years ago,22000000,Lalitpur,Imadol,13,Blacktopped
+4,3,2.5,1,East,2076.0,0-4-0-0 Aana,2500 Aana,4 years ago,21500000,Lalitpur,Imadol,20,Gravelled
+0,0,3.5,0,West,,7 Aana,N/A Aana,4 years ago,21500000,Bhaktapur,Changunarayan,15,Gravelled
+4,5,2.5,1,South,2078.0,0-4-1-0 Aana,2500 Sq. Feet,2 months ago,46500000,Kathmandu,Budhanilkantha,16,Concrete
+9,10,3.0,3,North,2074.0,0-4-0-0 Aana,0-2-3-0 Aana,4 years ago,2000000025,Pokhara,Lekhnath,20,Gravelled
+6,5,2.5,1,North East,2080.0,0-4-0-0 Aana,N/A Aana,2 months ago,33500000,Kathmandu,Kapan,13,Concrete
+0,0,,0,South East,,5 Aana,N/A Aana,4 years ago,25000000,Pokhara,Ram Bazar,20,Gravelled
+3,3,2.5,2,West,2074.0,0-4-2-3 Aana,2326.62 Aana,2 months ago,39050000,Kathmandu,Sitapaila,20,Blacktopped
+0,0,,0,East,,0-3-2-0 Aana,N/A Aana,4 years ago,11500000,Kathmandu,Thankot,13,Blacktopped
+5,3,2.5,2,East,2076.0,0-3-2-0 Aana,2000. Aana,4 years ago,19500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.0,3,South,,10 Aana,N/A Aana,4 years ago,39000000,Kathmandu,Budhanilkantha,13,
+9,3,3.0,2,South,2064.0,0-3-0-0 Aana,0-2-0-0 Aana,3 years ago,25000000,Kathmandu,Budhanilkantha,13,Gravelled
+4,2,1.5,1,North East,2076.0,0-3-0-0 Aana,750 Aana,4 years ago,13000000,Lalitpur,Imadol,13,Gravelled
+7,6,,2,South West,,6.5 Aana,3800 Aana,2 months ago,76000000,Kathmandu,Baluwatar,13,
+5,5,2.5,1,South,,0-6-0-0 Aana,N/A Aana,4 years ago,60000000,Kathmandu,Baluwatar,13,Blacktopped
+6,3,3.0,4,South East,,6 Aana,N/A Aana,4 years ago,34000000,Kathmandu,Budhanilkantha,13,
+0,0,2.0,0,West,,0-3-2-2 Aana,N/A Aana,4 years ago,22500000,Kathmandu,Banasthali,13,Gravelled
+0,0,,0,West,,3 Aana,N/A Aana,4 years ago,7000000,Kathmandu,Kavresthali,10,Soil Stabilized
+3,2,2.5,1,South,,0-3-0-1 Aana,N/A Aana,4 years ago,21000000,Lalitpur,Gwarko,13,Blacktopped
+0,0,3.5,0,East,2075.0,0-6-0-3 Aana,5000 Sq. Feet,2 years ago,80000000,Kathmandu,Buddhanagar,14,Blacktopped
+6,3,3.0,0,North East,,6 Aana,N/A Aana,4 years ago,51500000,Kathmandu,Baluwatar,12,
+0,0,2.0,3,East,2080.0,5 Aana,5 Aana,3 weeks ago,47500000,Kathmandu,Budhanilkantha,13,Blacktopped
+0,3,2.0,4,East,2080.0,5 aana Aana,5 Aana,3 weeks ago,47500000,Kathmandu,Budhanilkantha,13,Gravelled
+2,1,,0,West,,4 Aana,N/A Aana,4 years ago,13000000,Kathmandu,Tokha,15,Soil Stabilized
+5,2,3.0,2,North,,0-3-1-1 Aana,N/A Aana,4 years ago,25500000,Kathmandu,Samakhusi,0,
+0,0,2.5,1,North,2076.0,0-5-0-0 Aana,N/A Aana,4 years ago,40000000,Kathmandu,Sanobharyang,13,Blacktopped
+0,0,0.0,1,North,,0-3-0-0 Sq. Feet,0-2-2-0 Sq. Feet,4 years ago,16000000,Lalitpur,Tikathali,13,Gravelled
+4,1,,0,North,2074.0,1 Kattha,N/A Kattha,4 years ago,3650000,Bardiya,Guleriya,14,Soil Stabilized
+0,0,,0,South,,9 Aana,N/A Aana,4 years ago,49500000,Kathmandu,Budhanilkantha,15,Blacktopped
+12,4,4.0,5,North,,0-4-0-2 Aana,N/A Aana,4 years ago,45000000,Kathmandu,Balaju,0,
+5,3,3.0,0,South,,3.5 Aana,N/A Aana,4 years ago,16500000,Lalitpur,Imadol,13,Blacktopped
+6,5,,2,East,2023.0,4 Aana,2150 Sq. Feet,3 weeks ago,32500000,Kathmandu,Sitapaila,13,
+0,0,3.0,0,South East,,6 Aana,N/A Aana,4 years ago,30000000,Kathmandu,Lazimpat,10,
+0,0,,0,North,,4 Aana,N/A Aana,4 years ago,22500000,Kathmandu,Kadaghari,16,Blacktopped
+4,4,3.0,1,North,2078.0,0-3-0-0 Aana,1700 Aana,2 years ago,21000000,Lalitpur,Imadol,13,Gravelled
+0,0,3.0,0,East,,6 Aana,N/A Aana,4 years ago,30000000,Kathmandu,Basundhara,12,
+5,3,3.0,0,North,2076.0,0-3-2-0 Aana,N/A Aana,4 years ago,19500000,Lalitpur,Imadol,13,Gravelled
+0,0,,0,North,,0-3-0-3 Aana,N/A Aana,4 years ago,11500000,Bhaktapur,Dadikot,12,Gravelled
+4,4,2.5,2,West,2074.0,0-3-2-2 Aana,2009.63 Aana,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+2,1,1.0,0,West,,0-3-1-0 Aana,N/A Aana,4 years ago,8500000,Kathmandu,Gurujudhara,10,Gravelled
+6,4,,1,West,2080.0,0-5-3-0 Aana,N/A Aana,2 months ago,42000000,Kathmandu,Sanobharyang,13,Concrete
+0,0,,0,East,,0-3-0-0 Aana,N/A Aana,4 years ago,17000000,Kathmandu,Tarkeshwor,10,Gravelled
+3,4,2.5,2,East,2074.0,0-3-0-3 Aana,1916.52 Aana,2 months ago,34100000,Kathmandu,Sitapaila,20,Blacktopped
+0,0,4.0,0,East,,7 Aana,N/A Aana,4 years ago,33000000,Kathmandu,Boudha,20,
+2,1,1.0,2,North,,0-3-2-0 Aana,1198.033 Sq. Feet,2 days ago,19500000,Kathmandu,Budhanilkantha,14,Paved
+7,3,3.0,1,North,2080.0,0-3-0-2 Aana,N/A Aana,5 days ago,29000000,Lalitpur,Imadol,0,
+6,4,4.0,3,North,,0-3-0-1 Aana,N/A Aana,4 years ago,22500000,Kathmandu,Samakhusi,10,
+4,4,2.5,2,East,2074.0,0-3-2-3 Aana,2009.63 Sq. Feet,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+9,3,3.0,0,South West,,3 Aana,N/A Aana,4 years ago,16500000,Kathmandu,Jorpati,10,Gravelled
+5,4,3.0,1,East,2075.0,0-4-1-1 Aana,973 Aana,5 years ago,25500000,Kathmandu,Sitapaila,13,
+7,4,3.5,1,West,2076.0,0-3-0-0 Aana,3500 Aana,4 years ago,19000000,Bhaktapur,Sipadol,20,Gravelled
+0,0,2.0,0,North,,16 Dhur,N/A Dhur,4 years ago,12500000,Dharan,Dharan,15,Blacktopped
+4,3,2.5,1,North East,2076.0,0-3-2-0 Aana,750 Aana,4 years ago,19500000,Lalitpur,Imadol,20,Gravelled
+5,5,2.5,2,South,2079.0,5.75 Aana,2600 Aana,1 year ago,49500000,Kathmandu,Budhanilkantha,15,Blacktopped
+0,0,,0,South,,0-4-2-0 Aana,N/A Aana,4 years ago,49000000,Kathmandu,Thapagaun,12,Blacktopped
+0,0,,0,South,,8 Aana,N/A Aana,4 years ago,45000000,Kathmandu,Budhanilkantha,15,Soil Stabilized
+2,1,1.0,0,South,,6 Dhur,N/A Dhur,4 years ago,5000000,Chitwan,Bharatpur,20,Blacktopped
+2,1,1.0,1,North East,,0-4-0-0 Aana,N/A Aana,3 years ago,15000000,Kathmandu,Thali,18,Gravelled
+5,4,3.0,1,North,2080.0,0-3-0-0 Aana,N/A Aana,2 months ago,31500000,Kathmandu,Thulo Bharyang,13,Concrete
+7,0,,0,South,,3 Aana,N/A Aana,4 years ago,15500000,Kathmandu,Balambu,12,Gravelled
+5,3,,1,South,2080.0,0-2-2-3 Aana,N/A Aana,1 month ago,25000000,Kathmandu,Kapan,18,Blacktopped
+11,0,2.0,0,West,,5 Aana,N/A Aana,4 years ago,22000000,Kathmandu,Kadaghari,15,Gravelled
+0,0,,0,East,,0-2-3-0 Aana,N/A Aana,4 years ago,9500000,Kathmandu,Naikap,10,Blacktopped
+0,0,,0,East,,0-2-3-0 Aana,N/A Aana,4 years ago,19000000,Kathmandu,Dhumbarahi,10,Blacktopped
+4,4,2.5,2,West,2074.0,0-3-3-2 Aana,2009.63 Sq. Feet,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+0,4,3.0,2,South East,2069.0,4.1 aana Aana,0 Aana,1 month ago,38000000,Kathmandu,Boudha,13,Gravelled
+4,3,2.5,0,North,2076.0,0-3-2-0 Aana,N/A Aana,4 years ago,26000000,Kathmandu,Gongabu,13,Blacktopped
+7,3,2.5,2,West,2067.0,0-4-1-1 Aana,N/A Aana,4 years ago,20000000,Kathmandu,Makalbari,10,Gravelled
+3,3,3.0,1,South East,,0-3-0-3 Aana,N/A Aana,4 years ago,20000000,Lalitpur,Harisiddhi,18,
+2,1,1.0,1,West,2078.0,4 anna 2 paisa Aana,0 Aana,2 months ago,19500000,Kathmandu,Tarkeshwor,26,Gravelled
+0,0,,0,West,,5 Dhur,N/A Dhur,4 years ago,8000000,Dharan,Dharan,52,Blacktopped
+10,4,3.5,1,West,,0-3-0-2 Aana,N/A Aana,1 week ago,21000000,Kathmandu,Kapan,13,Blacktopped
+0,0,,0,South,,0-5-3-0 Aana,N/A Aana,4 years ago,28000000,Lalitpur,Harisiddhi,20,
+5,3,2.5,1,North,2076.0,0-3-1-2 Aana,1968 Aana,1 month ago,27000000,Kathmandu,Samakhusi,13,Blacktopped
+6,5,2.0,3,West,,0-4-0-2 Aana,1412.022 Sq. Feet,1 week ago,38000000,Kathmandu,Budhanilkantha,13,Gravelled
+8,6,3.0,4,South,,0-4-1-2 Aana,N/A Aana,4 years ago,32500000,Kathmandu,Dhumbarahi,13,Gravelled
+7,0,3.0,2,East,2019.0,4.5 Aana,3.5 Aana,4 years ago,27500000,Kathmandu,Ekatabasti,13,Blacktopped
+4,2,1.5,1,North West,2074.0,0-5-0-0 Aana,1350 Aana,2 years ago,16500000,Kathmandu,Budhanilkantha,13,Soil Stabilized
+2,1,1.5,1,South,2076.0,0-3-0-0 Aana,N/A Aana,4 years ago,12500000,Lalitpur,Tikathali,13,Gravelled
+7,3,3.0,1,West,,0-7-3-0 Aana,N/A Aana,4 years ago,43500000,Kathmandu,Shantinagar,13,Blacktopped
+4,4,3.0,2,East,2075.0,0-4-0-1 Aana,2500 Aana,4 years ago,19000000,Lalitpur,Thaiba,13,Gravelled
+2,2,1.0,1,South West,2076.0,3.1 ana Aana,N/A Aana,4 years ago,14000000,Kathmandu,Mandikatar,13,Gravelled
+4,4,4.0,1,West,2079.0,0-3-3-0 Aana,N/A Aana,8 months ago,22500000,Kathmandu,Sitapaila,13,Gravelled
+0,0,,1,South East,,0-2-2-0 Aana,N/A Aana,4 years ago,13500000,Kathmandu,Dharmasthali,12,Blacktopped
+5,6,3.0,3,East,2077.0,0-6-0-0 Aana,2800 Aana,3 years ago,45000000,Kathmandu,Budhanilkantha,26,Blacktopped
+2,1,2.0,0,West,,3 Aana,N/A Aana,4 years ago,6500000,Lalitpur,Imadol,5,Gravelled
+4,5,2.5,2,South East,2080.0,0-8-1-0 Aana,3246 Sq. Feet,2 months ago,64150000,Kathmandu,Budhanilkantha,20,Blacktopped
+0,0,,0,South,,3 Aana,N/A Aana,4 years ago,17500000,Lalitpur,Imadol,13,
+4,4,2.5,2,North,2074.0,0-3-2-3 Sq. Feet,2009.63 Sq. Feet,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+0,0,,0,South,,20 Aana,N/A Aana,4 years ago,40000000,Kathmandu,Syuchatar,16,Blacktopped
+4,2,1.5,1,South,2072.0,0-4-3-0 Aana,151 Aana,4 years ago,16500000,Kathmandu,Syuchatar,18,Concrete
+11,4,3.0,2,East,2077.0,0-4-1-0 Aana,2600 Aana,3 years ago,26500000,Kathmandu,Kapan,13,Blacktopped
+3,2,2.0,0,South West,,3.1 Aana,N/A Aana,4 years ago,19000000,Kathmandu,Sukedhara,24,Blacktopped
+6,4,,2,East,,0-4-1-0 Aana,N/A Aana,8 months ago,35500000,Kathmandu,Budhanilkantha,16,Soil Stabilized
+3,3,3.0,2,South,2076.0,0-3-1-0 Aana,N/A Aana,4 years ago,18500000,Lalitpur,Imadol,13,Gravelled
+4,3,3.0,1,South,2074.0,0-4-2-0 Sq. Feet,2856 Sq. Feet,4 years ago,32500000,Kathmandu,Bhangal,26,Paved
+4,3,2.0,0,South,,3.1 Aana,3 Aana,4 years ago,23000000,Kathmandu,Basundhara,15,Gravelled
+4,4,3.0,1,South,2078.0,0-8-0-0 Aana,N/A Sq. Feet,2 years ago,45000000,Kathmandu,Budhanilkantha,20,Concrete
+0,0,,0,South,,4 Aana,N/A Aana,4 years ago,28000000,Kathmandu,Budhanilkantha,15,Gravelled
+0,4,3.0,2,West,2079.0,9 Aana,0 Aana,1 month ago,65000000,Kathmandu,Kapan,13,Gravelled
+6,6,3.0,2,South West,,8 Aana,N/A Aana,4 years ago,45000000,Kathmandu,Basundhara,15,Blacktopped
+4,4,2.0,4,East,2019.0,0-4-0-0 / 322 Aana,0-4-0-0 / 322 Aana,4 years ago,20000000,Makwanpur,Hetauda,14,Paved
+2,1,1.0,4,East,2074.0,3.5 Aana,N/A Aana,4 years ago,14200000,Lalitpur,Imadol,20,Gravelled
+10,0,3.0,0,South,,4.2 Aana,N/A Aana,4 years ago,34500000,Kathmandu,Samakhusi,20,
+0,0,,0,West,,5 Dhur,N/A Dhur,4 years ago,8500000,Dharan,Dharan,15,Gravelled
+6,4,3.0,3,West,,7.5 Aana,N/A Aana,4 years ago,53000000,Kathmandu,Tokha,15,Blacktopped
+11,0,3.0,0,North,,0-4-0-0 Aana,N/A Aana,4 years ago,25500000,Kathmandu,Kapan,13,Blacktopped
+0,0,,0,North East,,0-3-1-0 Aana,N/A Sq. Feet,4 years ago,21500000,Kathmandu,Kapan,16,Blacktopped
+3,3,3.5,0,East,2080.0,0-3-1-2 Aana,N/A Sq. Feet,2 weeks ago,23000000,Kathmandu,Ramkot,20,Concrete
+4,4,2.5,2,South East,2074.0,0-3-3-0 Aana,1744.78 Aana,2 months ago,35750000,Kathmandu,Sitapaila,20,Blacktopped
+6,3,3.0,1,North East,2018.0,3.2 Aana,792 Aana,4 years ago,19000000,Kathmandu,Kavresthali,0,
+6,3,2.5,1,South,2076.0,0-3-1-0 Aana,N/A Aana,3 years ago,19500000,Lalitpur,Imadol,12,Gravelled
+5,3,2.5,1,South East,2076.0,0-3-0-2 Aana,1700 Aana,4 years ago,17500000,Lalitpur,Imadol,13,Gravelled
+4,4,2.5,2,East,2074.0,0-3-2-0 Aana,2009.63 Aana,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+10,6,3.5,7,North East,,1-8-0-0 Aana,N/A Aana,3 months ago,140000000,Kathmandu,Budhanilkantha,16,Blacktopped
+7,0,,0,East,,3 Aana,N/A Aana,4 years ago,17000000,Kathmandu,Kapan,13,
+5,6,2.5,2,West,2077.0,0-5-0-0 Aana,N/A Aana,3 years ago,46000000,Kathmandu,Budhanilkantha,14,Concrete
+6,4,2.5,1,South,2080.0,0-4-1-3 Aana,N/A Aana,2 months ago,29500000,Kathmandu,Kapan,13,Concrete
+4,3,3.0,0,South,,0-2-2-0 Aana,N/A Aana,4 years ago,15000000,Lalitpur,Imadol,13,Gravelled
+10,0,,3,South,,7 Aana,N/A Aana,4 years ago,38000000,Kathmandu,Dhumbarahi,10,
+0,0,4.0,0,South West,,5 Aana,N/A Aana,4 years ago,25500000,Bhaktapur,Lokanthali,10,
+0,0,,0,West,,3 Aana,N/A Aana,4 years ago,15000000,Kathmandu,Kapan,13,Blacktopped
+5,6,2.5,1,South,,0-4-0-0 Aana,2950 Aana,4 weeks ago,52500000,Kathmandu,Ravi Bhawan,32,Blacktopped
+6,4,2.5,1,South,2076.0,0-3-0-2 Aana,1700 Aana,4 years ago,17500000,Lalitpur,Imadol,16,Gravelled
+0,0,3.0,0,West,,5.5 Aana,N/A Aana,4 years ago,25000000,Kathmandu,Manamaiju,13,
+7,3,,0,West,,4 Aana,N/A Aana,4 years ago,8000000,Kathmandu,Tarkeshwor,10,
+4,3,2.0,2,East,2073.0,0-3-2-0 Aana,0-3-2-0 Aana,4 years ago,24500000,Kathmandu,Chandol,13,Soil Stabilized
+5,2,3.0,0,South,,5 Aana,N/A Aana,4 years ago,39000000,Kathmandu,Basundhara,14,
+4,4,2.5,2,North,2074.0,0-3-3-3 Aana,2009.63 Aana,2 months ago,34100000,Kathmandu,Sitapaila,20,Blacktopped
+3,2,2.0,1,North,2070.0,0-3-0-0 Aana,N/A Sq. Feet,1 month ago,20000000,Kathmandu,Kadaghari,13,Paved
+5,4,3.0,1,South East,2073.0,0-4-3-1 Aana,2450 Aana,4 years ago,28500000,Lalitpur,Bhaisepati,13,Blacktopped
+5,4,3.0,3,East,,4 Aana,N/A Sq. Feet,4 years ago,19200000,Kathmandu,Budhanilkantha,13,
+8,8,3.5,2,West,2077.0,0-8-0-0 Aana,N/A Aana,2 weeks ago,44000000,Kathmandu,Ramkot,13,Concrete
+4,0,3.0,0,West,,4.5 Aana,N/A Aana,4 years ago,26500000,Kathmandu,Bafal,13,Gravelled
+7,4,3.5,2,South,2076.0,0-4-2-0 Aana,2700 Aana,4 years ago,22000000,Lalitpur,Imadol,13,Gravelled
+0,0,3.0,0,West,,3.85 Aana,N/A Aana,4 years ago,43500000,Kathmandu,Hattisar,20,
+5,5,2.5,2,North,,0-8-0-0 Aana,3000 Sq. Feet,8 months ago,75000000,Kathmandu,Budhanilkantha,13,Blacktopped
+0,0,3.0,0,South East,,0-5-2-0 Aana,N/A Aana,4 years ago,25000000,Lalitpur,Bhaisepati,12,Gravelled
+3,3,2.0,1,South West,,0-5-2-0 Aana,N/A Aana,4 years ago,25000000,Lalitpur,Harisiddhi,0,
+7,4,3.0,0,South West,,3.3 Aana,N/A Aana,4 years ago,22500000,Lalitpur,Imadol,13,
+7,3,,1,South West,,0-3-2-0 Aana,N/A Aana,10 months ago,29000000,Kathmandu,Gothatar,20,Soil Stabilized
+2,1,1.0,0,North,,18*35 Sq. Feet,N/A Sq. Feet,4 years ago,13500000,Pokhara,Pokhara,16,Gravelled
+2,1,1.0,0,North,,0-3-5-0 Aana,N/A Aana,4 years ago,7500000,Kathmandu,Kapan,12,Gravelled
+0,0,,0,West,,0-4-5-0 Sq. Feet,N/A Sq. Feet,4 years ago,14000000,Bhaktapur,Bhaktapur,13,Gravelled
+8,4,4.0,0,West,,0-3-2-0 Aana,N/A Aana,4 years ago,17000000,Kathmandu,Tokha,20,Gravelled
+0,0,3.0,0,North East,,4 Aana,N/A Aana,4 years ago,30000000,Pokhara,Ram Bazar,20,
+0,0,3.0,0,South,2017.0,2.5 Aana,N/A Aana,3 years ago,21000000,Kathmandu,Grande Villa,16,Gravelled
+2,1,1.5,2,West,2076.0,0-2-3-0 Aana,646 Aana,4 years ago,11000000,Lalitpur,Tikathali,13,Gravelled
+0,0,,0,West,,3 Aana,N/A Aana,4 years ago,11000000,Kathmandu,Thali,10,Soil Stabilized
+4,3,,0,West,,0-3-1-2 Sq. Feet,1650 Sq. Feet,4 years ago,22835000,Kathmandu,Balkhu,20,
+7,0,2.0,0,North,,0-3-1-0 Aana,N/A Aana,4 years ago,17800000,Kathmandu,Budhanilkantha,15,Gravelled
+7,5,,1,North,,0-3-1-0 Aana,N/A Aana,8 months ago,34000000,Kathmandu,Chamati,20,Blacktopped
+0,0,,0,North,,0-3-2-0 Aana,N/A Aana,4 years ago,18500000,Kathmandu,Kapan,13,Gravelled
+16,3,3.0,0,North,,6 Aana,N/A Aana,4 years ago,27000000,Bhaktapur,Lokanthali,13,Blacktopped
+5,5,3.0,4,East,,9 Aana,N/A Aana,4 years ago,45000000,Kathmandu,Sitapaila,12,
+6,4,3.0,2,East,,4.5 Aana,4 Aana,4 years ago,25500000,Kathmandu,Budhanilkantha,13,Blacktopped
+6,3,2.5,2,North,2076.0,0-3-2-0 Aana,1900 Aana,4 years ago,20000000,Lalitpur,Imadol,13,Gravelled
+0,3,3.0,2,East,2018.0,4.1 Aana,3.5 Aana,4 years ago,23500000,Kathmandu,Budhanilkantha,13,Blacktopped
+4,4,2.0,2,South West,,0-10-2-3 Aana,1860 Aana,1 year ago,73100000,Kathmandu,Sitapaila,18,Blacktopped
+4,3,3.0,0,East,,3.13 Aana,N/A Aana,4 years ago,22500000,Kathmandu,Mandikatar,12,
+13,5,3.5,1,North West,2060.0,0-4-0-0 Aana,N/A Aana,2 months ago,44000000,Kathmandu,Baneshwor,12,Concrete
+4,4,2.5,1,West,2077.0,0-3-1-1 Aana,2100 Aana,3 years ago,19000000,Lalitpur,Imadol,20,Gravelled
+9,1,3.0,1,West,2076.0,0-6-0-0 Aana,0-3-0-0 Aana,4 years ago,21500000,Bhaktapur,Bhaktapur,20,Gravelled
+0,0,3.5,2,East,,0-3-2-0 Aana,N/A Aana,2 years ago,45000000,Kathmandu,Shantinagar,14,Blacktopped
+7,4,3.0,0,East,,6.1 Aana,3400 Aana,4 years ago,38000000,Kathmandu,Kalanki,14,
+4,4,2.5,1,East,2075.0,0-4-0-0 Aana,2100 Aana,4 years ago,24000000,Kathmandu,Sitapaila,13,Blacktopped
+0,0,,0,South,,1 Aana,N/A Aana,4 years ago,4000000,Kathmandu,Kirtipur,10,Blacktopped
+7,3,3.0,2,South,2078.0,0-5-0-1 Aana,2600 Sq. Feet,2 years ago,29500000,Kathmandu,Kapan,13,Gravelled
+0,0,,0,South,,3 Aana,N/A Aana,4 years ago,15000000,Kathmandu,Kirtipur,10,Blacktopped
+7,2,3.0,1,West,2079.0,0-4-0-2 Aana,3500 Sq. Feet,5 days ago,38000000,Kathmandu,Kadaghari,13,Gravelled
+12,0,,0,North,,0-5-5-0 Aana,N/A Aana,4 years ago,33000000,Kathmandu,Kirtipur,12,Gravelled
+2,4,3.0,1,North,2020.0,0-3-3-0 Aana,0-3-3-0 Aana,3 years ago,21500000,Lalitpur,Mahalaxmi Nagarpalika,12,Gravelled
+5,2,3.0,1,South,2067.0,0-6-3-3 Aana,N/A Aana,4 years ago,29500000,Kathmandu,Naikap,15,Blacktopped
+5,3,2.0,3,South West,,0-4-0-0 Aana,N/A Aana,2 years ago,28500000,Kathmandu,Bafal,13,Gravelled
+4,3,3.0,0,South,,0-3-3-0 Aana,N/A Aana,4 years ago,23500000,Lalitpur,Imadol,20,Gravelled
+2,1,1.0,1,South West,2068.0,3.2 Aana,750 Aana,4 years ago,10500000,Kathmandu,Makalbari,12,Gravelled
+7,3,2.0,3,East,,0-4-0-0 Aana,1369.181 Sq. Feet,3 days ago,29500000,Lalitpur,Harisiddhi,13,Blacktopped
+5,5,3.0,2,West,,0-6-2-0 Aana,N/A Sq. Feet,2 years ago,65000000,Kathmandu,Baluwatar,20,Paved
+4,5,3.0,1,North,2019.0,0.3.0.0 Aana,1900 Aana,4 years ago,18000000,Lalitpur,Nakkhu,13,Soil Stabilized
+5,3,2.0,1,South East,2079.0,0-3-1-0 Aana,N/A Aana,2 weeks ago,25000000,Kathmandu,Bafal,14,Concrete
+4,3,2.5,1,South,2076.0,0-3-0-0 Aana,650 Aana,4 years ago,18000000,Lalitpur,Imadol,13,Gravelled
+6,0,,0,North,,0-2-3-0 Aana,N/A Aana,4 years ago,12500000,Kathmandu,Kadaghari,13,Gravelled
+6,5,2.5,3,South East,,0-5-0-0 Aana,N/A Aana,1 week ago,46000000,Kathmandu,Budhanilkantha,20,Blacktopped
+0,0,,0,East,,0-3-3-0 Aana,N/A Aana,4 years ago,29500000,Kathmandu,Kalimati,0,
+5,3,2.0,9,North,2068.0,13-0-0-0 Ropani,73945.989 Sq. Feet,2 weeks ago,260000000,Kathmandu,Tarkeshwor,20,Paved
+6,4,3.0,1,East,2075.0,0-4-2-0 Aana,N/A Sq. Feet,5 months ago,35000000,Kathmandu,Kapan,13,Concrete
+0,0,,0,North,,0-3-5-0 Aana,N/A Aana,4 years ago,11500000,Kathmandu,Kadaghari,12,Gravelled
+6,5,2.5,1,East,,0-4-0-0 Aana,2200 Aana,4 years ago,21000000,Kathmandu,Sitapaila,14,Concrete
+9,4,4.0,4,South,,0-12-3-2 Aana,N/A Aana,4 years ago,63000000,Kathmandu,Basbari,13,
+0,3,3.0,1,East,,0.4.0.0 Aana,0-4.0.0 Aana,4 years ago,21000000,Lalitpur,Imadol,12,
+11,2,3.0,2,South,2018.0,817 Sq. Feet,0-4-0-2 Sq. Feet,4 years ago,15200000,Kavre,Dhulikhel,10,Gravelled
+0,0,,0,South,,17*45 Haat,N/A Haat,4 years ago,12000000,Pokhara,Lekhnath,30,Gravelled
+4,5,3.0,0,North,2078.0,0-4-0-2 Aana,2350 Sq. Feet,2 months ago,46500000,Kathmandu,Budhanilkantha,16,Concrete
+3,4,2.5,1,West,,0-2-2-0 Aana,N/A Aana,4 years ago,17700000,Lalitpur,Dhapakhel,12,Blacktopped
+5,4,2.5,1,West,2077.0,0-3-1-0 Aana,2000 Sq. Feet,3 years ago,18000000,Lalitpur,Imadol,20,Gravelled
+4,3,2.5,1,North West,2076.0,0-4-0-0 Aana,1650 Aana,4 years ago,17000000,Kathmandu,Kalanki,10,Blacktopped
+5,0,3.0,0,West,,0-4-0-0 Aana,N/A Aana,4 years ago,29000000,Kathmandu,Kadaghari,12,Blacktopped
+3,3,2.5,2,West,2074.0,0-3-2-0 Aana,1744.78 Sq. Feet,2 months ago,34650000,Kathmandu,Sitapaila,20,Blacktopped
+4,4,2.0,1,West,2076.0,0-3-2-3 Sq. Feet,710 Sq. Feet,4 years ago,19500000,Lalitpur,Baghdol,20,Gravelled
+4,3,3.0,2,North West,2066.0,0-3-0-0 Sq. Feet,715 Sq. Feet,2 years ago,22500000,Kathmandu,Jorpati,14,Blacktopped
+3,3,2.0,1,West,2011.0,0-8-1-3 Aana,1577 Aana,5 months ago,41000000,Kathmandu,Chandragiri,16,Paved
+5,3,2.5,1,West,2076.0,0-2-2-0 Aana,1400 Aana,4 years ago,15000000,Lalitpur,Imadol,13,Gravelled
+4,3,3.0,0,East,,3.1 Aana,N/A Aana,4 years ago,17000000,Kathmandu,Dhapasi,13,Blacktopped
+7,6,5.0,4,South East,,3.1 Aana,N/A Aana,4 years ago,16000000,Kathmandu,Mulpani,14,Gravelled
+4,4,4.0,1,West,2078.0,0-4-2-0 Aana,3306 Sq. Feet,2 months ago,47500000,Kathmandu,Budhanilkantha,20,Blacktopped
+4,3,3.0,0,East,,4 Aana,N/A Aana,4 years ago,25000000,Kathmandu,Bhangal,13,
+2,2,1.0,1,North East,,3 Aana,N/A Aana,4 years ago,10000000,Lalitpur,Imadol,13,Blacktopped
+3,4,2.0,1,East,2021.0,4 Aana,4 Aana,2 months ago,27000000,Kathmandu,Kirtipur,20,Blacktopped
+0,0,,0,South East,,4 Aana,N/A Aana,4 years ago,24500000,Kathmandu,Bhangal,14,
+10,3,3.0,2,West,2066.0,0-12-0-0 Aana,3100 Sq. Feet,1 year ago,75000000,Kathmandu,Bafal,13,Blacktopped
+7,0,3.0,4,South,,4 Aana,N/A Aana,4 years ago,24000000,Kathmandu,Kapan,16,Soil Stabilized
+5,4,2.5,2,North East,2075.0,0-3-0-0 Aana,95.39 Aana,3 years ago,25000000,Kathmandu,Pepsicola,18,Gravelled
+0,0,3.0,3,South,,0-4-2-0 Aana,N/A Aana,4 years ago,33000000,Kathmandu,Baneshwor,8,Gravelled
+5,3,2.5,2,East,2076.0,0-3-1-0 Aana,N/A Aana,4 years ago,21500000,Lalitpur,Imadol,20,Blacktopped
+4,4,3.0,1,South West,2068.0,0-5-0-0 Aana,2300 Aana,2 years ago,39000000,Kathmandu,Minbhawan,13,Blacktopped
+5,4,3.0,5,East,2076.0,2845 Sq. Feet,3420 Sq. Feet,4 years ago,35000000,Kathmandu,Budhanilkantha,12,Blacktopped
+5,4,3.5,1,South,,0-3-1-2 Aana,N/A Aana,1 month ago,39500000,Kathmandu,Gaushala,15,Blacktopped
+11,0,3.0,4,South,,4 Aana,N/A Aana,4 years ago,20400000,Kathmandu,Kapan,20,Blacktopped
+6,4,2.5,3,East,2078.0,0-5-0-0 Aana,N/A Sq. Feet,1 month ago,46500000,Kathmandu,Budhanilkantha,13,Gravelled
+5,6,2.5,2,East,2072.0,0-9-3-2 Aana,N/A Aana,3 years ago,80000000,Kathmandu,Chandol,20,Blacktopped
+2,3,3.0,0,North,,5 Aana,N/A Aana,4 years ago,37500000,Kathmandu,Basundhara,14,Blacktopped
+5,3,2.5,2,West,2071.0,0-4-2-0 Aana,N/A Aana,3 years ago,23500000,Kathmandu,Raniban,10,Blacktopped
+5,2,2.5,1,West,2076.0,0-3-2-0 Aana,2000 Aana,4 years ago,18500000,Lalitpur,Imadol,13,Gravelled
+5,3,2.5,1,East,2077.0,0-3-0-0 Aana,N/A Aana,3 years ago,22000000,Lalitpur,Imadol,13,Gravelled
+5,4,3.0,0,North West,,3 Aana,N/A Aana,4 years ago,18000000,Lalitpur,Imadol,11,Gravelled
+4,4,2.0,2,East,2080.0,4 aana 2 daam Aana,N/A Aana,3 weeks ago,35000000,Kathmandu,Budhanilkantha,13,Gravelled
+5,4,2.5,0,South,,6 Aana,N/A Aana,4 years ago,40000000,Kathmandu,Sukedhara,15,Gravelled
+7,5,2.5,2,North,2074.0,0-4-0-2 Aana,2009.63 Aana,2 months ago,41250000,Kathmandu,Sitapaila,20,Blacktopped
+6,5,2.5,1,West,2080.0,0-3-1-0 Aana,N/A Sq. Feet,5 days ago,31500000,Kathmandu,Mandikatar,13,Concrete
+7,2,2.5,1,South East,2077.0,0-3-0-0 Aana,N/A Aana,8 months ago,24000000,Kathmandu,Kapan,13,Blacktopped
+0,0,2.0,0,East,2070.0,4 Aana,0-4-1-2/139.11 Aana,4 years ago,46500000,Lalitpur,Thasikhel,21,Blacktopped
+6,4,3.0,3,North West,2078.0,0-3-2-0 Aana,N/A Aana,2 years ago,36000000,Kathmandu,Tarkeshwor,13,Paved
+0,0,,0,North,,8 Dhur,N/A Dhur,4 years ago,16000000,Makwanpur,Hetauda,15,
+5,3,2.5,1,North West,2076.0,0-4-0-0 Aana,N/A Aana,4 years ago,22000000,Lalitpur,Imadol,10,Gravelled
+6,4,4.0,0,South,,4 Aana,N/A Aana,4 years ago,27500000,Kathmandu,Sukedhara,12,
+4,3,3.0,1,East,2078.0,0-3-0-0 Aana,1500 Aana,2 years ago,21500000,Lalitpur,Imadol,13,Soil Stabilized
+0,0,,0,South,,4 Aana,N/A Aana,4 years ago,22000000,Kathmandu,Balaju,22,Gravelled
+3,1,1.0,0,West,,2.5 Aana,N/A Aana,4 years ago,6500000,Kathmandu,Goldhunga,10,Soil Stabilized
+12,4,4.0,3,East,2062.0,0-8-0-0 Aana,2800 Aana,2 years ago,80000000,Kathmandu,Minbhawan,18,Concrete
+4,4,3.0,1,South,2012.0,4.3 Aana,N/A Aana,4 years ago,31500000,Lalitpur,Bhaisepati,12,Paved
+0,0,3.0,0,East,,8 Sq. Feet,N/A Sq. Feet,4 years ago,55000000,Kathmandu,Samakhusi,13,
+10,7,4.0,2,North,2067.0,0-5-2-0 Aana,3300 Sq. Feet,1 year ago,55000000,Kathmandu,Dhumbarahi,13,Concrete
+0,0,,0,East,2073.0,3 Aana,N/A Aana,4 years ago,15000000,Kathmandu,Kapan,10,Blacktopped
+2,2,1.5,1,South East,2075.0,0-3-1-0 Aana,N/A Aana,3 years ago,10500000,Kathmandu,Gokarneshwor,12,Gravelled
+6,5,3.0,20,North East,,3-12-0-0 Ropani,N/A Ropani,8 months ago,280000000,Kathmandu,Sanobharyang,20,Blacktopped
+2,1,1.5,1,North East,2076.0,0-4-0-2 Aana,N/A Aana,4 years ago,15000000,Lalitpur,Tikathali,16,Blacktopped
+4,4,2.5,2,East,2074.0,0-4-0-0 Aana,2009.63 Aana,2 months ago,38500000,Kathmandu,Sitapaila,20,Blacktopped
+4,1,1.5,0,North East,,0-5-1-0 Aana,N/A Aana,4 years ago,12000000,Lalitpur,Imadol,4,Concrete
+0,0,,0,North,,4 Aana,N/A Aana,4 years ago,27500000,Kathmandu,Sukedhara,13,Gravelled
+5,4,3.0,4,East,,4 Aana 3 Paisa 1 Daam Aana,N/A Aana,3 years ago,26000000,Kathmandu,Sukedhara,0,
+13,0,,0,West,,0-5-5-0 Aana,N/A Aana,4 years ago,26200000,Kathmandu,Budhanilkantha,13,Blacktopped
+0,0,3.0,0,South,,3 Aana,N/A Aana,4 years ago,18000000,Kathmandu,Hattigauda,13,
+0,0,,0,West,,5 Aana,N/A Aana,4 years ago,20500000,Kathmandu,Sitapaila,20,Blacktopped
+7,6,2.0,3,West,,0-4-0-0 Aana,1369.181 Sq. Feet,2 days ago,44500000,Lalitpur,Tikathali,23,Paved
+4,4,3.0,1,East,2078.0,0-3-3-2 Aana,2207 Aana,2 months ago,42000000,Kathmandu,Budhanilkantha,20,Blacktopped
+5,5,2.5,1,North,,0-9-0-0 Aana,3300 Sq. Feet,5 months ago,80000000,Kathmandu,Sanobharyang,20,Blacktopped
+6,5,3.0,3,South,2068.0,0-8-0-0 Aana,N/A Aana,1 year ago,72500000,Kathmandu,Balkhu,20,Blacktopped
+7,0,2.0,0,North,,0-2-2-0 Aana,N/A Aana,4 years ago,13200000,Kathmandu,Kadaghari,13,Gravelled
+5,3,2.5,2,South,,0-3-2-0 Aana,N/A Aana,4 years ago,17000000,Lalitpur,Lubhu,20,Blacktopped
+8,3,2.5,1,South,2076.0,0-3-0-0 Aana,95 Aana,4 years ago,17000000,Lalitpur,Imadol,13,Gravelled
+6,4,3.0,4,South East,,6 Aana,N/A Sq. Feet,4 years ago,40000000,Kathmandu,Chandol,14,
+4,5,2.5,1,South,2078.0,4 Aana,2350 Sq. Feet,2 months ago,42500000,Kathmandu,Budhanilkantha,16,Concrete
+0,0,,0,West,,0-7-2-0 Aana,N/A Aana,4 years ago,9500000,Pokhara,Pokhara,15,Gravelled
+5,4,2.5,1,North East,2077.0,0-3-0-0 Aana,1800 Aana,3 years ago,18500000,Lalitpur,Imadol,12,Gravelled
+13,0,4.5,0,South East,,13 Aana,N/A Aana,4 years ago,70000000,Kathmandu,Maharajgunj,14,Gravelled
+0,0,,0,North,,8 Aana,N/A Aana,4 years ago,38000000,Kathmandu,Chabahil,14,Blacktopped
+11,5,3.0,0,East,,4 Aana,N/A Aana,4 years ago,26500000,Kathmandu,Kapan,13,Blacktopped
+2,1,,0,East,,0-4-3-0 Aana,N/A Ropani,4 years ago,13800000,Kathmandu,Pasikot,12,Soil Stabilized
+2,1,1.5,1,West,2076.0,0-3-1-2 Aana,N/A Aana,4 years ago,12500000,Lalitpur,Imadol,13,Gravelled
+7,5,2.5,2,South East,2069.0,1-0-0-0 Ropani,N/A Ropani,2 weeks ago,80000000,Kathmandu,Manamaiju,13,Concrete
+2,1,1.0,0,North,,3 Aana,N/A Aana,4 years ago,11500000,Kathmandu,Tokha,13,Gravelled
+6,4,3.0,3,West,,4.5 Aana,N/A Aana,4 years ago,25000000,Kathmandu,Budhanilkantha,13,Soil Stabilized
+7,5,4.0,2,West,2078.0,0-5-0-0 Aana,3200 Sq. Feet,1 year ago,49500000,Kathmandu,Budhanilkantha,13,Blacktopped
